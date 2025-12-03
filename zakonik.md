@@ -1,2 +1,2 @@
 # **Zákoník San Andreas**
-#### **ZÁKONÍK SE TEPRVE BUDE PŘIDÁVAT DO MDT**
+#### **Zákoník je v momentální chvíli nedostupný.**
