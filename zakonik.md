@@ -77,7 +77,7 @@ Soud jako k polehčující okolnosti přihlédne zejména k tomu, že pachatel
 
 (3) V případě, že osoba mladší 15ti let se dopustí trestného činu, tak celý proces řešení okamžitě přebírá odbor sociálně-právní ochrany dětí.
 
-###Trestné činy a přestupek
+### Trestné činy a přestupek
 (1) Přestupek je společensky škodlivý protiprávní čin, který zákon označuje za přestupek. Je nejméně závažný a nelze za něj být uložen trest odnětí svobody.
 
 (2) Přečin je společensky škodlivý protiprávní čin, spadá do kategorie trestného činu a je méně závažný. Jeho sazba odnětí svobody je do 5 let.
@@ -129,6 +129,219 @@ Soud jako k polehčující okolnosti přihlédne zejména k tomu, že pachatel
      t) Přechovávání omamných a psychotropních látek v případě (2) (3) (4) (5) (6) podle dělení drog
      u) Nedovolené nakládání a výroba omamných a psychotropních látek v případě (2) (3) (4) (5) (6) podle dělení drog
      v) Šíření omamných a psychotropních látek v případě (2) (3) (4) (5) (6) podle dělení drog
+
+# **TRESTNÉ ČINY PROTI ŽIVOTU A ZDRAVÍ**
+
+## 1 - Vražda
+(1) Kdo jiného úmyslně usmrtí, bude potrestán odnětím svobody od 20 do 25 let nebo trestem výjimečným a pokutou ve výši 40.000$.
+
+
+(2) Kdo jiného úmyslně usmrtí s rozmyslem nebo po předchozím uvážení nebo vícekrát, bude potrestán odnětím svobody od 25 do 30 let nebo trestem výjimečným a pokutou ve výši 60.000$.
+
+
+(3) Kdo úmyslně usmrtí úřední osobu nebo osobu veřejně známou, bude potrestán odnětím svobody od 25 do 30 let nebo trestem výjimečným a pokutou ve výši 50.000$.
+
+
+(4) Kdo úmyslně usmrtí úřední osobu nebo osobu veřejně známou s rozmyslem nebo po předchozím uvážení nebo vícekrát, bude potrestán trestem výjimečným a pokutou ve výši 75.000$.
+
+
+(5) Příprava je trestná.
+
+## §2 - Zabití
+(1) Kdo jiného úmyslně usmrtí v silném rozrušení ze strachu, úleku, zmatku nebo jiného omluvitelného hnutí mysli, bude potrestán trestem odnětí svobody od 10 do 15 let a pokutou ve výši 15.000$.
+
+(2) Kdo úmyslně usmrtí úřední osobu nebo osobu veřejně známou v silném rozrušení ze strachu, úleku, zmatku nebo jiného omluvitelného hnutí mysli, bude potrestán trestem odnětí svobody od 15 do 20 let a pokutou ve výši 25.000$.
+
+## §3 - Usmrcení z nedbalosti
+(1) Kdo jinému z nedbalosti způsobí smrt, bude potrestán odnětím svobody od 5 do 10 let a pokutou ve výši 6.500$.
+
+(2) Kdo z nedbalosti způsobí smrt proti úřední osobě nebo osobě veřejně známé, bude potrestán odnětím svobody od 8 do 13 let a pokutou ve výši 10.500$.
+
+## §4 - Ublížení na zdraví
+(1) Kdo jinému neúmyslně a zbraní způsobí újmu na zdraví, je trestný čin a bude potrestán odnětím svobody od 1 do 3 let a pokutou ve výši 3.000$.
+
+
+(2) Kdo jinému úmyslně způsobí újmu na zdraví pomocí chladné zbraně podle zákonu o střelných zbraní a střelivu, je trestný čin a bude potrestán odnětím svobody od 5 do 8 let a pokutou ve výši 6.000$.
+
+
+(3) Kdo jinému úmyslně způsobí újmu na zdraví pomocí střelné zbraně, je trestný čin a bude potrestán odnětím svobody od 6 do 10 let a pokutou ve výši 7.500$.
+
+
+(4) Kdo jinému úmyslně způsobí újmu na zdraví pomocí chladné nebo střelné zbraně, proti úřední osobě, je trestný čin a bude potrestán odnětím svobody od 7 do 11 let a pokutou ve výši 10.000$.
+
+
+(5) Příprava je trestná
+
+## §5 - Rvačka
+(1) Kdo úmyslně ohrozí život nebo zdraví jiného tím, že se zúčastní rvačky, bude potrestán odnětím svobody na 1 rok a pokutou ve výši 1.200$.
+
+## §6 - Mučení
+(1) Kdo mučením nebo jiným nelidským a krutým zacházením, působí jinému tělesné nebo duševní utrpení, bude potrestán odnětím svobody od 7 do 13 let a pokutou ve výši 13.000$.
+
+(2) Kdo mučením nebo jiným nelidským a krutým zacházením, působí proti úřední osobě nebo osobě veřejně známé, tělesné nebo duševní utrpení, bude potrestán odnětím svobody od 9 do 17 let a pokutou ve výši 24.500$.
+
+(3) Příprava je trestná.
+
+## §7 - Pokus o vraždu
+(1) Kdo se pokusí úmyslně usmrtit osobu, bude potrestán odnětím svobody od 9 do 12 let nebo trestem výjimečným a pokutou ve výši 15.000$.
+
+(2) Kdo se pokusí úmyslně usmrtit osobu s rozmyslem nebo po předchozím uvážení nebo vícekrát, bude potrestán odnětím svobody od 10 do 14 let nebo trestem výjimečným a pokutou ve výši 20.000$.
+
+(3) Kdo se pokusí úmyslně usmrtit úřední osobu nebo osobu veřejné známou, bude potrestán odnětím svobody od 11 do 15 let nebo trestem výjimečným a pokutou ve výši 18.000$.
+
+(4) Kdo se pokusí úmyslně usmrtit úřední osobu nebo osobu veřejné známou s rozmyslem nebo po předchozím uvážení nebo vícekrát, bude potrestán odnětím svobody od 12 do 16 let nebo trestem výjimečným a pokutou ve výši 25.000$.
+
+(5) Příprava je trestná.
+
+## §8 - Napadení
+(1) Kdo zaútočí nebo užije násilí proti osobě bez použití zbraně, je přestupek, který je trestá pokutou ve výši 3.500$.
+
+(2) Kdo zaútočí nebo užije násilí proti úřední osobě bez použití zbraně, je přestupek, který je trestá pokutou ve výši 6.500$.
+
+(3) Kdo zaútočí nebo užije násilí proti úřední osobě nebo osobě bez použití zbraně a způsobí tím újmu na zdraví, je trestný čin, který je trestá pokutou ve výši 9.000$ a odnětím svobody od 1 do 5 let.
+
+(4) Napadením se bere jakýkoli čin, kterým přímo nebo nepřímo působí na druhou osobu.
+
+ Příklady: Plivat na druhé.
+                  Házet po druhých kameny či jiné předměty.
+                  Fyzicky skočit na druhé, aby se znehybnil a složil k zemi.)
+
+# **TRESTNÉ ČINY PROTI MAJETKU**
+
+## §22 - Krádež
+(1) Kdo si přisvojí cizí věc tím, že se jí zmocní a hodnota ukradené věci nebude přesahovat 20.000$, bude potrestán pokutou ve výši 10.000$.
+
+(2) Kdo si přisvojí cizí věc tím, že se jí zmocní a hodnota ukradené věci bude přesahovat 20.000$, bude potrestán odnětím svobody od 1 do 3 let a pokutou ve výši 15.000$.
+
+## §23 - Loupež
+(1) Kdo proti jinému užije násilí nebo pohrůžky v úmyslu zmocnit se cizí věci, v případě
+     a) Byla užita střelná zbraň, nebo
+     b) Jedná se o loupež obchodu, nebo
+     c) Jedná se o loupež klenotnictví, nebo
+     d) Jedná se o loupež banky, nebo
+     e) Jedná se o loupež hlavní banky, nebo
+     f) Jedná se o loupež bankomatu
+bude potrestán odnětím svobody od 5 do 9 let a pokutou ve výši 30.000$.
+
+(2) Kdo proti jinému užije násilí nebo pohrůžky v úmyslu zmocnit se cizí věci, v případě
+     a) Byla užita chladná zbraň, nebo
+     b) Jakékoliv jiné formy loupeže
+bude potrestán odnětím svobody od 3 do 7 let a pokutou ve výši 15.000$.
+
+## §24 - Zpronevěra
+(1) Kdo si přisvojí cizí věc, která mu byla svěřena, a způsobí tak na cizím majetku škodu nikoli nepatrnou, bude potrestán odnětím svobody od 1 do 2 let a pokutou ve výši 4.500$.
+
+## §25 - Neoprávněné užívání vozidla
+(1) Kdo se zmocní motorového vozidla v úmyslu je přechodně užívat, bude potrestán pokutou ve výši 5.000$.
+
+(2) Kdo se zmocní motorového vozidla v úmyslu je přechodně užívat, bude potrestán odnětím svobody od 1 do 3 let a pokutou ve výši 6.000$, pokud se jej osoba dopustí v přímém souběhu s dalším trestným činem.
+
+## §26 - Podvod
+(1) Kdo sebe nebo jiného obohatí tím, že uvede někoho v omyl, využije něčího omylu nebo zamlčí podstatné skutečnosti, a způsobí tak na cizím majetku škodu nikoli nepatrnou, bude potrestán odnětím svobody od 3 do 5 let a pokutou ve výši 1.000$.
+
+## §27 - Legalizace výnosů z trestné činnosti
+(1) Kdo ukryje, na jiného převede, přechovává nebo užívá věc, která je výnosem z trestné činnosti spáchané na území San Andreas nebo v cizině, nebo kdo takovou věc přemění v úmyslu umožnit jiné osobě, aby unikla trestnímu stíhání nebo trestu, bude potrestán odnětím svobody od 7 do 10 let a pokutou ve výši 13.000$.
+
+(2) Kdo zastírá původ věci, která je výnosem z trestné činnosti spáchané na území San Andreas nebo v cizině, zejména tím, že zakrývá nebo utajuje její skutečnou povahu, umístění, pohyb, nakládání s ní, vlastnické nebo jiné právo k ní, nebo kdo jinak usiluje, aby bylo podstatně ztíženo nebo znemožněno zjištění jejího původu, bude potrestán odnětím svobody od 8 do 11 let a pokutou ve výši 15.000$.
+
+## §28 - Legalizace výnosů z trestné činnosti z nedbalosti
+(1) Kdo jinému z nedbalosti umožní zastřít původ nebo zjištění původu věci, která je výnosem z trestné činnosti spáchané na území San Andreas nebo v cizině, bude potrestán odnětím svobody od 1 do 6 let a pokutou ve výši 9.000$.
+
+(2) Stejně bude potrestán, kdo z nedbalosti ukryje nebo na jiného převede, přechovává nebo užívá věc větší hodnoty, která je výnosem z trestné činnosti spáchané na území San Andreas nebo v cizině.
+
+## §29 - Vandalismus
+(1) Kdo zničí nebo poškodí cizí věc, a způsobí tak na cizím majetku škodu nikoli nepatrnou, bude potrestán pokutou ve výši 2.500$.
+     a) Stejně bude potrestán, kdo poškodí cizí věc tím, že ji postříká, pomaluje či popíše barvou nebo jinou látkou.
+
+(2) Kdo zničí nebo poškodí cizí věc, a způsobí tak na cizím majetku škodu přesahující 20.000$, bude potrestán odnětím svobody od 1 do 2 let a pokutou ve výši 4.500$.
+     a) Stejně bude potrestán, kdo poškodí cizí věc tím, že ji postříká, pomaluje či popíše barvou nebo jinou látkou.
+
+## §30 - Žhářství
+(1) Kdo úmyslně založí požár s úmyslem poškodit cizí majetek bude potrestán odnětím svobody od 2 do 6 let a pokutou ve výši 4.000$ a proplacení škody.
+
+## §31 - Zatajení věci
+(1) Kdo si přisvojí cizí věc nikoli nepatrné hodnoty, která se dostala do jeho moci nálezem, omylem nebo jinak bez přivolení osoby oprávněné, bude potrestán odnětím svobody od 1 do 2 let a pokutou ve výši 1.500$.
+
+(2) Odnětím svobody od 2 do 4 let a pokutou ve výši 2.500$ bude pachatel potrestán, získá-li činem uvedeným v odstavci (1) pro sebe nebo pro jiného značný prospěch.
+
+## §32 - Neoprávněný vstup
+(1) Kdo neoprávněné vstoupí na pozemek, který je ohraničen plotem popřípadě brankou nebo má vyvěšené cedule "zákaz vstupu" bude potrestán odnětím svobody od 1 do 2 let a pokutou ve výši 2.500$.
+
+(2) Kdo neoprávněné vstoupí na pozemek, který je ohraničen plotem popřípadě brankou nebo má vyvěšené cedule "zákaz vstupu", v případě pozemků státních institucí a státních složek, bude potrestán odnětí svobody od 1 do 3 let a pokutou ve výši 5.500$.
+
+(3) Kdo neoprávněně vstoupí do budovy, uzavřeného prostoru či nemovitosti bez užití násilí bude potrestán odnětím svobody od 1 do 3 let a pokutou ve výši 3.500$.
+
+(4) Kdo neoprávněně vstoupí do budovy, uzavřeného prostoru či nemovitosti bez užití násilí, v případě budov státních institucí a státních složek, bude potrestán odnětí svobody od 2 do 4 let a pokutou ve výši 7.000$.
+
+## §33 - Vloupání
+(1) Kdo za užití násilí nebo s úmyslem trestné činnosti vstoupí do uzavřeného prostoru, budovy nebo nemovitosti bude potrestán odnětím svobody od 1 do 5 let a pokutou ve výši 2.000$.
+
+(2) Kdo za užití násilí nebo s úmyslem trestné činnosti vstoupí do uzavřeného prostoru, budovy nebo nemovitostí státních institucí a státních složek bude potrestán odnětí svobody od 3 do 6 let a pokutou ve výši 6.000$.
+
+## §34 - Výtržnictví a nepovolená demonstrace
+(1) Kdo se dopustí na veřejně nebo na místě veřejnosti přístupném hrubé neslušnosti nebo napadne jiného, hanobí hrob, historickou nebo kulturní památku, anebo hrubým způsobem ruší přípravu, průběh nebo zakončení organizovaného sportovního utkání, shromáždění nebo obřadu lidí, bude potrestán pokutou ve výši 12.500$.
+
+(2) Kdo neoprávněně shromáždí,  zúčastní nebo zapojí se do demonstrace, která nebude předem nahlášena na policejní stanici nebo případně nebude probíhat podle předem stanoveného plánu, který je potřeba doložit současně s ohlášením demonstrace, bude potrestán pokutou ve výši 10.000$.
+
+## §35 - Držení, prodej nebo výroba falešných dokladů
+(1) Kdokoliv kdo drží, přechovává, prodává, nabízí k prodeji, převáží takový doklad, který není vydán orgánem příslušným k vydání dokladu a je si toho vědom, bez ohledu na to, zda-li se jedná o padělek úplný či neúplný a svým vzhledem by mohl uvést v omyl, bude potrestán trestem odnětí svobody na 5 až 9 let a pokutou ve výši 45.000$.
+
+(2) Kdokoliv kdo vyrobí, zajistí výrobu, podílí se na výrobě nebo podněcuje jiné k výrobě takového dokladu, který není vydán orgánem příslušným k vydání dokladu a je si toho vědom, bez ohledu na to, zda-li se jedná o padělek úplný či neúplný a svým vzhledem by mohl uvést v omyl, bude potrestán trestem odnětí svobody od 8 do 12 let a pokutou ve výši 70.000$.
+
+## §36 - Padělání dokumentů a peněz
+(1) Kdokoliv kdo padělá nebo pozmění jakýkoliv dokument případně ho bude vědomě přechovávat, držet, využívat pro prospěch svůj či jiné osoby a nebo bude chtít tímto dokumentem uvést někoho v omyl, bude potrestán trestem odnětí svobody na 10 až 14 let a pokutou ve výši 35.000$.
+
+(2) Kdokoliv kdo vyrobí, zajistí výrobu, podílí se na výrobě, podněcuje jiné k výrobě peněžních prostředků nebo sobě nebo jinému opatří nebo přechovává padělané nebo pozměněné peníze nebo prvky sloužící k ochraně proti padělání nebo je má v úmyslu udat nebo je udá jako pravé nebo platné anebo jako peníze vyšší hodnoty, bude potrestán trestem odnětí svobody od 13 do 16 let a pokutou ve výši 80.000$.
+
+(3) Příprava je trestná.
+
+# **TRESTNÉ ČINY OBECNĚ NEBEZPEČNÉ**
+
+## §49 - Obecné ohrožení
+(1) Kdo úmyslně způsobí obecné nebezpečí tím, že vydá lidi v nebezpečí smrti nebo újmy na zdraví nebo cizí majetek v nebezpečí škody velkého rozsahu tím, že zapříčiní požár nebo povodeň nebo škodlivý účinek výbušnin, plynu, elektřiny nebo jiných podobně nebezpečných látek nebo sil nebo se dopustí jiného podobného nebezpečného jednání, nebo kdo takové obecné nebezpečí zvýší anebo ztíží jeho odvrácení nebo zmírnění, bude potrestán odnětím svobody od 2 až 6 let a pokutou ve výši 3.500$.
+
+## §50 - Šíření poplašné zprávy
+(1) Kdo úmyslně šíří nepravdivou informaci v hmotné či nehmotné formě bez vědomí o nepravdivosti bude potrestán pokutou ve výši 8.000$.
+
+(2) Kdo úmyslně šíří nepravdivou informaci v hmotné či nehmotné formě s vědomím o nepravdivosti bude potrestán odnětím svobody od 2 do 4 let a pokutou ve výši 12.000$.
+
+## §51 - Ohrožení pod vlivem návykové látky
+(1) Kdo vykonává zaměstnání nebo jinou činnost ve stavu vylučujícím způsobilost, který si přivodil vlivem návykové látky, při kterých by mohl ohrozit život nebo zdraví lidí nebo způsobit značnou škodu na majetku, bude potrestán odnětím svobody od 1 do 4 let a pokutou ve výši 6.000$.
+
+(2) U osoby, které byla prokázána přítomnost návykové látky v případě (2), (3), (4), (5) nebo (6), dle zákonu o návykových látkách, prostřednictvím testu na drogy, bude potrestána odnětím svobody od 3 do 6 let a pokutou ve výši 7.500$.
+
+## §52 - Porušení povinnosti při hrozivé tísni
+(1) Kdo zmaří nebo ztíží odvrácení nebo zmírnění hrozivé tísně, která přímo postihuje větší nebo menší skupinu osob, popřípadě jednotlivce, tím, že bez závažného důvodu
+     a) odepře pomoc, nebo
+     b) odepře nebo zmaří poskytnutí pomoci jinou osobou,
+bude potrestán odnětím svobody od 2 do 4 let a pokutou ve výši 2.500$.
+
+## §53 - Nedovolené ozbrojování
+(1) Kdo bez povolení vyrobí, sobě nebo jinému opatří nebo přechovává střelnou zbraň, výbušninu nebo jejich hlavní části nebo díly, bude potrestán odnětím svobody od 5 do 8 let a pokutou ve výši 5.000$.
+
+(2) Stejně bude potrestán, kdo padělá, pozmění, zahlazuje nebo odstraňuje jedinečné označení střelné zbraně, které umožňuje její identifikaci.
+
+## §54 - Nedovolené používání přídavků na zbraň
+(1) Kdo nasadí či používá nelegální přídavky na zbraň, bubnový zásobník, tlumič, či jiné zařízení pro odhlučnění střelného rázu bude potrestán odnětím svobody od 1 do 3 let pokutou ve výši 10.000$.
+
+## §55 - Neposkytnutí první pomoci
+(1) Kdo osobě, která je v nebezpečí smrti nebo jeví známky vážné poruchy zdraví nebo jiného vážného onemocnění, neposkytne potřebnou pomoc, ač tak může učinit bez nebezpečí pro sebe nebo jiného, bude potrestán odnětím svobody od 2 do 5 let a pokutou ve výši 1.500$.
+
+(2) Kdo osobě, která je v nebezpečí smrti nebo jeví známky vážné poruchy zdraví nebo vážného onemocnění, neposkytne potřebnou pomoc, ač je podle povahy svého zaměstnání povinen takovou pomoc poskytnout, bude potrestán odnětím svobody od 3 do 6 let a pokutou ve výši 2.500$.
+
+## §56 - Předsudečné násilí
+(1) Kdokoliv kdo provede útok motivovaný předsudky pachatele vůči skupině, kterou napadený představuje na základě nezměnitelné charakteristiky se dopouští přečinu a bude potrestán odnětím svobody na 1 rok a pokutou ve výši 5.500$.
+
+(2) Nezměnitelné charakteristice se rozumí:
+     a) zdravotnímu postižení,
+     b) pohlaví,
+     c) národnosti,
+     d) rase nebo etnické příslušnosti,
+     e) náboženství,
+     f) sexuální orientaci,
+     g) spojení s osobou nebo skupinou, která má jednu nebo více z těchto skutečných nebo vnímaných charakteristik.
+
+
 
 
 
