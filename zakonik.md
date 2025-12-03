@@ -17,14 +17,14 @@ Soud jako k polehčující okolnosti přihlédne zejména k tomu, že pachatel
      d) spáchal trestný čin pod vlivem hrozby nebo nátlaku,
      e) spáchal trestný čin pod vlivem tíživých osobních nebo rodinných poměrů, které si sám nezpůsobil,
      f) spáchal trestný čin ve věku blízkém věku mladistvých,
-     g) spáchal trestný čin odvraceje útok nebo jiné nebezpečí, aniž byly zcela splněny podmínky nutné obrany nebo krajní nouze, anebo překročil meze                      přípustného rizika nebo meze jiné okolnosti vylučující protiprávnost,
+     g) spáchal trestný čin odvraceje útok nebo jiné nebezpečí, aniž byly zcela splněny podmínky nutné obrany nebo krajní nouze, anebo překročil meze  přípustného rizika nebo meze jiné okolnosti vylučující protiprávnost,
      h) spáchal trestný čin v právním omylu, kterého se bylo možno vyvarovat,
      i) trestným činem způsobil nižší škodu nebo jiný menší škodlivý následek,
      j) přičinil se o odstranění škodlivých následků trestného činu nebo dobrovolně nahradil způsobenou škodu,
      k) svůj trestný čin sám oznámil úřadům,
      l) se k trestnému činu doznal,
      m) napomáhal při objasňování své trestné činnosti nebo významně přispěl k objasnění trestného činu spáchaného jiným,
-     n) přispěl zejména jako spolupracující obviněný k objasňování trestné činnosti spáchané členy organizované skupiny, ve spojení s organizovanou                          skupinou nebo ve prospěch organizované zločinecké skupiny,
+     n) přispěl zejména jako spolupracující obviněný k objasňování trestné činnosti spáchané členy organizované skupiny, ve spojení s organizovanou      skupinou nebo ve prospěch organizované zločinecké skupiny,
      o) trestného činu upřímně litoval, nebo
      p) vedl před spácháním trestného činu řádný život.
 
@@ -47,7 +47,7 @@ Soud jako k polehčující okolnosti přihlédne zejména k tomu, že pachatel
 (2) Trestem odnětí svobody se rozumí, nestanoví-li trestní zákon jinak,
      a) nepodmíněný trest odnětí svobody,
      b) podmíněné odsouzení k trestu odnětí svobody,
-          b1) Soud může podmíněně odložit výkon trestu odnětí svobody nepřevyšujícího sedm let, jestliže vzhledem k osobě pachatele, zejména s                                  přihlédnutím k jeho dosavadnímu životu a prostředí, ve kterém žije a pracuje, a k okolnostem případu má důvodně za to, že účelu trestu bude                            dosaženo i bez jeho výkonu.
+b1) Soud může podmíněně odložit výkon trestu odnětí svobody nepřevyšujícího sedm let, jestliže vzhledem k osobě pachatele, zejména s    přihlédnutím k jeho dosavadnímu životu a prostředí, ve kterém žije a pracuje, a k okolnostem případu má důvodně za to, že účelu trestu bude dosaženo i bez jeho výkonu.
      c) podmíněné odsouzení k trestu odnětí svobody s dohledem.
 
 (3) Zvláštním typem trestu odnětí svobody je výjimečný trest, který se trestá odnětím svobody po dobu celého života.
@@ -55,13 +55,13 @@ Soud jako k polehčující okolnosti přihlédne zejména k tomu, že pachatel
 ### Smrtící zbraň
 (1) Za smrtící zbraň je považován jakýkoliv předmět, kterým se dá usmrtit osoba a nedá se znehodnotit či zdeformovat v rukou
      příklady: Kovová tyč
-                     Kus ostrého plechu či jakéhokoliv kovu a nebo skla
-                     Kus dřeva
+ Kus ostrého plechu či jakéhokoliv kovu a nebo skla
+ Kus dřeva
 
 (2) Mezí smrtící zbraně spadají taktéž všechny typy zbraní
      příklady:  Střelná zbraň
-                Nůž
-                Baseballová pálka
+      Nůž
+      Baseballová pálka
 
 ### Kauce
 (1) Kauce je omezena pouze dolní hranicí ve výši 50.000$ a složit ji může nejen trestně stíhaný, ale i jiná osoba, pokud byla seznámena s obviněním a důvody vazby. Soud může s přihlédnutím k osobě obviněného, trestného činu a důvodům vazby peněžitou záruku přijmout, ale také nemusí.
@@ -203,8 +203,8 @@ Soud jako k polehčující okolnosti přihlédne zejména k tomu, že pachatel
 (4) Napadením se bere jakýkoli čin, kterým přímo nebo nepřímo působí na druhou osobu.
 
  Příklady: Plivat na druhé.
-                  Házet po druhých kameny či jiné předměty.
-                  Fyzicky skočit na druhé, aby se znehybnil a složil k zemi.)
+ Házet po druhých kameny či jiné předměty.
+ Fyzicky skočit na druhé, aby se znehybnil a složil k zemi.)
 
 # **TRESTNÉ ČINY PROTI MAJETKU**
 
@@ -544,7 +544,7 @@ Příklady nemravného a nevhodného chování:
      a) v případě překročení rychlosti v dané oblasti o 1-15 mp/h pokutou ve výši 1.500$
      b) v případě překročení rychlosti v dané oblasti o 16-25 mp/h pokutou ve výši 2.500$
      c) v případě překročení rychlosti v dané oblasti o 26-46 mp/h pokutou ve výši 4.500$
-     d) v případě překročení rychlosti v dané oblasti nad 46 mp/h pokutou ve výši 5.500$ a zabavení řidičského oprávnění pro všechny skupiny od 1 do 7                    měsíců.
+     d) v případě překročení rychlosti v dané oblasti nad 46 mp/h pokutou ve výši 5.500$ a zabavení řidičského oprávnění pro všechny skupiny od 1 do 7měsíců.
 
 (2) Maximální povolené rychlosti v:
      a) ve městě a městských částí: 30mph
@@ -678,42 +678,42 @@ je nezpůsobilé k jízdě na pozemní komunikaci a osoba, bude trestána pokuto
 
      a) Přechovávání omamných a psychotropních látek od 1 do 28,5 gramů v případě 1.1 a 1.2 je legální
 
-     b) Přechovávání omamných a psychotropních látek nad 28,5 do 100 gramů v případě 1.1 a 1.2 je trestný čin, který se trestá odnětím svobody od 3 do 8              let a pokutou ve výši 7.500$
+     b) Přechovávání omamných a psychotropních látek nad 28,5 do 100 gramů v případě 1.1 a 1.2 je trestný čin, který se trestá odnětím svobody od 3 do 8    let a pokutou ve výši 7.500$
 
-     c) Přechovávání omamných a psychotropních látek více jak 100 gramů v případě 1.1 a 1.2 je trestný čin, který se trestá odnětím svobody od 6 do 12 let a            pokutou ve výši 13.000$
+     c) Přechovávání omamných a psychotropních látek více jak 100 gramů v případě 1.1 a 1.2 je trestný čin, který se trestá odnětím svobody od 6 do 12 let a  pokutou ve výši 13.000$
 
-     d) Přechovávání omamných a psychotropních látek pod 75 gramů či lahviček v případě (2) (3) (4) (5) (6) dělení drog a jejich podkategorie nevyjímaje                  látky spojené s výrobou drogy je trestný čin, který se trestá odnětím svobody od 7 do 11 let a pokutou 10.000$
+     d) Přechovávání omamných a psychotropních látek pod 75 gramů či lahviček v případě (2) (3) (4) (5) (6) dělení drog a jejich podkategorie nevyjímaje látky spojené s výrobou drogy je trestný čin, který se trestá odnětím svobody od 7 do 11 let a pokutou 10.000$
 
-     e) Přechovávání omamných a psychotropních látek nad 75 gramů či lahviček v případě (2) (3) (4) (5) (6) dělení drog a jejich podkategorie nevyjímaje                    látky spojené s výrobou drogy je trestný čin, který se trestá odnětím svobody od 9 do 16 let a pokutou 17.000$
+     e) Přechovávání omamných a psychotropních látek nad 75 gramů či lahviček v případě (2) (3) (4) (5) (6) dělení drog a jejich podkategorie nevyjímajelátky spojené s výrobou drogy je trestný čin, který se trestá odnětím svobody od 9 do 16 let a pokutou 17.000$
 
 (2) Přechovávat omamné a psychotropní látky v případě 1.1, 1.2 mohou pouze osoby pohybující se na území státu San Andreas starší ve věku 21 let, podle dovoleného množství v odstavci (1) v §1.
 
 ## §2 - Nedovolené nakládání a výroba omamných a psychotropních látek
 (1) Kdo neoprávněně vyrobí nebo zprostředkuje nedovolené množství určité drogy, bude potrestán podle zákonu o návykových látkách, §2 - Nedovolené nakládání a výroba omamných a psychotropních látek
 
-     a) Pěstování do 6 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště v případě, že rostliny jsou v uzamčeném prostoru a nesmí být                    viditelné pro veřejnost je legální.
+     a) Pěstování do 6 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště v případě, že rostliny jsou v uzamčeném prostoru a nesmí býtviditelné pro veřejnost je legální.
 
-     b) Pěstování více jak 6 rostlin a méně jak 50 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště je trestný čin, který se trestná odnětím              svobody od 5 do 10 let a pokutou 19.000$
-          b1) V případě pěstování rostlin na veřejném místě přístupné pro veřejnost se trestá odnětím svobody od 8 do 14 let a pokutou 29.000$
+     b) Pěstování více jak 6 rostlin a méně jak 50 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště je trestný čin, který se trestná odnětím    svobody od 5 do 10 let a pokutou 19.000$
+b1) V případě pěstování rostlin na veřejném místě přístupné pro veřejnost se trestá odnětím svobody od 8 do 14 let a pokutou 29.000$
 
-     c) Pěstování více jak 50 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště je trestný čin, který se trestná odnětím svobody od 8 do 12              let a pokutou 28.000$
-          c1) V případě pěstování rostlin na veřejném místě přístupné pro veřejnost se trestá odnětím svobody od 10 do 18 let a pokutou 36.000$
+     c) Pěstování více jak 50 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště je trestný čin, který se trestná odnětím svobody od 8 do 12    let a pokutou 28.000$
+c1) V případě pěstování rostlin na veřejném místě přístupné pro veřejnost se trestá odnětím svobody od 10 do 18 let a pokutou 36.000$
 
-     d) Výroba omamné a psychotropní látky v případě (2) (3) (4) (5) (6) dělení drog do 50 gramů je trestný čin, který se trestá odnětím svobody od 10 do 15              let a pokutou ve výši 39.000$
-          d1) V případě výroby nad 50 gramů u drog (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím svobody od 14 do 18 let a pokutou ve                         výši 51.000$
+     d) Výroba omamné a psychotropní látky v případě (2) (3) (4) (5) (6) dělení drog do 50 gramů je trestný čin, který se trestá odnětím svobody od 10 do 15    let a pokutou ve výši 39.000$
+d1) V případě výroby nad 50 gramů u drog (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím svobody od 14 do 18 let a pokutou ve     výši 51.000$
 
 (2) Vyrábět a nakládat s omamnými a psychotropními látkami mohou pouze osoby pohybující se na území státu San Andreas starší ve věku 21 let, podle dovoleného množství v odstavci (1) v §2.
 
 ## §3 - Šíření omamných a psychotropních látek
 (1) Kdo neoprávněně doveze, převeze, vyveze, prodá, nabídne nebo opatří někomu omamnou nebo psychotropní látku, bude potrestán podle zákonu o návykových látkách, §3 - Šíření omamných a psychotropních látek
 
-     a) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy do 50 gramů v případě 1.1, 1.2 a 1.3 je trestný čin, který se trestá odnětím svobody od 4 do 7            let a pokutou ve výši 9.000$
+     a) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy do 50 gramů v případě 1.1, 1.2 a 1.3 je trestný čin, který se trestá odnětím svobody od 4 do 7 let a pokutou ve výši 9.000$
 
-     b) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy více jak 50 gramů v případě 1.1, 1.2 a 1.3 je trestný čin, který se trestá odnětím svobody od 6            do 9 let a pokutou ve výši 14.000$
+     b) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy více jak 50 gramů v případě 1.1, 1.2 a 1.3 je trestný čin, který se trestá odnětím svobody od 6  do 9 let a pokutou ve výši 14.000$
 
-     c) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy do 50 gramů v případě (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím                  svobody od 10 do 16 let a pokutou ve výši 17.000$
+     c) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy do 50 gramů v případě (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím svobody od 10 do 16 let a pokutou ve výši 17.000$
 
-     d) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy více jak 50 gramů v případě (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá                        odnětím svobody od 13 do 17 let a pokutou ve výši 22.000$
+     d) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy více jak 50 gramů v případě (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá    odnětím svobody od 13 do 17 let a pokutou ve výši 22.000$
 
 # **Firearms Act - FIR**
 
@@ -797,7 +797,7 @@ je nezpůsobilé k jízdě na pozemní komunikaci a osoba, bude trestána pokuto
      d) Povinnosti a úkoly spjaty se službou vykonávají Deputy Sheriffs.
      e) Za Los Santos County Sheriff Department zodpovídá Sheriff of Los Santos County Sheriff Department.
      f) Příslušník Los Santos County Sheriff Department má povinnost se držet podle Law Enforcement Act, který mu dává taktéž pravomoc k výkonu služby.
-     g) Los Santos County Sheriff Department má zodpovědnost za správu věznic a vězeňských zařízení a odpovídá za bezpečnost vězňů, převoz do soudů,              programy rehabilitace a taktéž poskytuje ochranu soudů a některých státních budov.
+     g) Los Santos County Sheriff Department má zodpovědnost za správu věznic a vězeňských zařízení a odpovídá za bezpečnost vězňů, převoz do soudů,    programy rehabilitace a taktéž poskytuje ochranu soudů a některých státních budov.
      h) Má povinnost koordinovat s dalšími Law Enforcement Agency nebo Public Safety Agency.
 
 (3) Air Marshal Service
@@ -806,8 +806,8 @@ je nezpůsobilé k jízdě na pozemní komunikaci a osoba, bude trestána pokuto
      c) Air Marshal Service slouží veřejnosti a jejím úkolem je zajistit ochranu vzdušeného prostoru a její plynulosti a zajistit tak ochranu osob a majetku.
      d) Povinnosti a úkoly spjaty se službou vykonávají Marshal Officers.
      e) Za Air Marshal Service zodpovídá Director of Federal Aviation Administration.
-     f) Příslušník Air Marshal Service má povinnost se držet podle Law Enforcement Act, který mu dává taktéž pravomoc k výkonu služby, který mohou využít           pouze k vymáhání leteckého zákona dle Flight and Aviation Code nebo k vyšetřování leteckých incidentu a nelegálních letů.
-     g) Air Marshal Service mohou zadržet osobu z porušování Flight and Aviation Code nebo leteckých předpisů, mohou provádět kontrolu osob, zavazadel             a leteckých zařízení, mohou zabavovat pilotní licence, průkazy a jiné relevantní dokumenty spjaty s letectvím a mohou vyhlásit dočasné omezení                     vzdušného prostoru („no-fly zone“) v případě bezpečnostní hrozby.
+     f) Příslušník Air Marshal Service má povinnost se držet podle Law Enforcement Act, který mu dává taktéž pravomoc k výkonu služby, který mohou využít pouze k vymáhání leteckého zákona dle Flight and Aviation Code nebo k vyšetřování leteckých incidentu a nelegálních letů.
+     g) Air Marshal Service mohou zadržet osobu z porušování Flight and Aviation Code nebo leteckých předpisů, mohou provádět kontrolu osob, zavazadel   a leteckých zařízení, mohou zabavovat pilotní licence, průkazy a jiné relevantní dokumenty spjaty s letectvím a mohou vyhlásit dočasné omezení vzdušného prostoru („no-fly zone“) v případě bezpečnostní hrozby.
      h) Má povinnost koordinovat s dalšími Law Enforcement Agency nebo Public Safety Agency.
 
 ## §2 - Public Safety Agency
@@ -818,7 +818,7 @@ je nezpůsobilé k jízdě na pozemní komunikaci a osoba, bude trestána pokuto
 (2) Emergency Medical Services
      a) Emergency Medical Services je organizace, jejím cílem je poskytnout rychlou a odbornou péči lidem v akutním ohrožení života nebo zdraví.
      b) Emergency Medical Services má působnost na celém území San Andreas a přilehlých ostrovech i s Cayo Perico a Roxwood.
-     c) Emergency Medical Services slouží pro poskytnutí přednemocniční péče a mají pravomoc poskytovat urgentní zdravotní péči, transport pacientů a                  podávat určité léky pod dohledem lékaře.
+     c) Emergency Medical Services slouží pro poskytnutí přednemocniční péče a mají pravomoc poskytovat urgentní zdravotní péči, transport pacientů a podávat určité léky pod dohledem lékaře.
      d) Povinnosti a úkoly spjaty se službou vykonávají paramedics nebo EMTs.
      e) Za Emergency Medical Services zodpovídá Director of Emergency Medical Services.
      f) Příslušník Emergency Medical Services má povinnost se držet podle zákonů, vyhlášek a nařízení, které upravují jejich činnost v práci.
@@ -828,7 +828,7 @@ je nezpůsobilé k jízdě na pozemní komunikaci a osoba, bude trestána pokuto
 
 (3) Hospital Staff
      a) Hospital Staff jsou všichni příslušníci, kteří poskytují nemocniční péči v nemocničním zařízení.
-     b) Hospital Staff vykonávají svoje povinnosti a službu pouze v příslušném nemocničním zařízení, kdekoliv na celém území San Andreas a přilehlých                    ostrovech i s Cayo Perico a Roxwood.
+     b) Hospital Staff vykonávají svoje povinnosti a službu pouze v příslušném nemocničním zařízení, kdekoliv na celém území San Andreas a přilehlýchostrovech i s Cayo Perico a Roxwood.
      c) Hospital Staff slouží pro poskytnutí nemocniční péče.
      d) Povinnosti a úkoly spjaty se službou vykonávají všichni všichni zdravotničtí pracovníci.
      e) Za Hospital Staff zodpovídá Director of Emergency Medical Services.
@@ -840,7 +840,7 @@ je nezpůsobilé k jízdě na pozemní komunikaci a osoba, bude trestána pokuto
 (4) San Andreas Fire Rescue
      a) San Andreas Fire Rescue je organizace, jejím cílem je poskytnout záchranu osob a majetku.
      b) San Andreas Fire Rescue má působnost na celém území San Andreas a přilehlých ostrovech i s Cayo Perico a Roxwood.
-     c) San Andreas Fire Rescue slouží k hašení požárů, záchranu osob při nehodách, povodních a katastrofách a k prevenci a inspekci požární bezpečnosti.              c1) V případě EMS nebo Paramedic Unit, jejich účel a pravomoc vychází z odst. (2).
+     c) San Andreas Fire Rescue slouží k hašení požárů, záchranu osob při nehodách, povodních a katastrofách a k prevenci a inspekci požární bezpečnosti.    c1) V případě EMS nebo Paramedic Unit, jejich účel a pravomoc vychází z odst. (2).
      d) Povinnosti a úkoly spjaty se službou vykonávají Firefighters.
      e) Za San Andreas Fire Rescue zodpovídá Fire Chief of San Andreas Fire Rescue.
      f) Příslušník San Andreas Fire Rescue má povinnost se držet podle zákonů, vyhlášek a nařízení, které upravují jejich činnost v práci.
@@ -860,7 +860,7 @@ je nezpůsobilé k jízdě na pozemní komunikaci a osoba, bude trestána pokuto
 Proto každý příslušník je povinen:
      a) dbát, aby žádné osobě v důsledku jejich postupu nevznikla bezdůvodná újma,
      b) dbát, aby jejich rozhodnutím neprovést úkon nevznikla osobám, jejichž bezpečnost je ohrožena, bezdůvodná újma,
-     c) postupovat tak, aby případný úkon nebo zásah, vůči nimž směřuje, nebo osob nezúčastněných nepřekročil míru nezbytnou k dosažení účelu                              sledovaného úkonem.
+     c) postupovat tak, aby případný úkon nebo zásah, vůči nimž směřuje, nebo osob nezúčastněných nepřekročil míru nezbytnou k dosažení účelusledovaného úkonem.
 
 ## §4 - Dokumentace
 (1) Law Enforcement Agencies a Public Safety Agencies jsou povinni provádět spisy, záznamy o jejích činnostech bez zbytečného odkladu a musí obsahovat čas, důvod, průběh a okolnosti daného případu, incidentu nebo zásahu.
@@ -889,7 +889,7 @@ Proto každý příslušník je povinen:
      c) bezdůvodně se zdržující v bezprostřední blízkosti policií chráněného prostoru nebo v místě, z něhož lze tento prostor účinně ohrozit,
      d) od níž je požadováno vysvětlení,
      e) odpovídající popisu hledané nebo pohřešované osoby,
-     f) vstupující do policií chráněného objektu nebo prostoru anebo do místa, kam je policistou zakázán vstup, nebo z tohoto objektu, prostoru anebo                   místa vycházející,
+     f) vstupující do policií chráněného objektu nebo prostoru anebo do místa, kam je policistou zakázán vstup, nebo z tohoto objektu, prostoru anebo  místa vycházející,
      g) která má na místě veřejně přístupném zbraň a je důvodné podezření, že zbraně může být užito k násilí nebo pohrůžce násilím,
      h) zdržující se v blízkosti místa, kde došlo ke spáchání trestného činu nebo přestupku, k požáru anebo jiné mimořádné události,
      i) která je oznamovatelem podezření ze spáchání trestného činu nebo přestupku,
@@ -1018,7 +1018,7 @@ Proto každý příslušník je povinen:
 (1) Příslušník státní ozbrojené složky má pravomoc použít donucovacích prostředků k zajištění ochraně bezpečnosti své osoby, jiné osoby nebo majetku anebo k ochraně veřejného pořádku.
 
 (2) Před použitím donucovacího prostředku je policista povinen vyzvat osobu, proti které zakročuje, aby zanechala jednání jinak budou použity donucovací prostředky. K vyzvání stačí jednoslovní výzva s výstrahou použití daného donucovacího prostředku.
-     a) od upozornění lze upustit v případě, že je pomocí donucovacích prostředků zabraňováno k odjezdu vozidla nebo v případě, že je ohrožen život nebo                zdraví osoby a zákrok nesnese odkladu.
+     a) od upozornění lze upustit v případě, že je pomocí donucovacích prostředků zabraňováno k odjezdu vozidla nebo v případě, že je ohrožen život nebo      zdraví osoby a zákrok nesnese odkladu.
 
 (3) Mezi donucovací prostředky patří vše co může činit zákrok účinnějším nebo efektivnějším a je schváleno vedením law enforcement agencies.
 
@@ -1086,9 +1086,9 @@ Frekvence určená pro řízení letového provozu 13 MHz CTR / UNICOM
      b) Může provádět kontroly letadel, letového provozu a leteckých zařízení.
      c) Má pravomoc monitorovat a regulovat vzdušný prostor, včetně jeho dočasného uzavření.
      d) Může vyšetřovat letecké incidenty a nehody a spolupracovat s orgány činnými v trestním řízení.
-     e) Má pravomoc zadržet osoby podezřelé z porušení Flight and Aviation Code nebo leteckých předpisů a zabavit jejich pilotní licence či dokumenty, které            jsou spjaty s letectvím.
+     e) Má pravomoc zadržet osoby podezřelé z porušení Flight and Aviation Code nebo leteckých předpisů a zabavit jejich pilotní licence či dokumenty, které  jsou spjaty s letectvím.
      f) Může udělovat pokuty, disciplinární opatření a organizovat zásahy včetně nasazení Air Marshals nebo interceptorů.
-     g) Může zabavit letecký prostředek se kterým je vykonávána trestná činnost nebo porušuje zákon dle Flight and Aviation Code a sám udává trest                          zabavení leteckého prostředku.
+     g) Může zabavit letecký prostředek se kterým je vykonávána trestná činnost nebo porušuje zákon dle Flight and Aviation Code a sám udává trest      zabavení leteckého prostředku.
      h) Má povinnost koordinovat s dalšími Law Enforcement Agency nebo Public Safety Agency.
 
 # **PART 2 - Flight and Aviation Code - FAC**
@@ -1291,10 +1291,15 @@ Pokud jsem zatčen a důstojník mi nečetl svá práva, bude mé obvinění zam
  
 
      1. Máte právo nevypovídat.
+
      2. Cokoliv řeknete, může a bude použito proti Vám.
+
      3. Máte právo na advokáta.
+
      4. Pokud si advokáta nemůžete dovolit, bude Vám přidělen.
+
      5. Rozuměl jste svým právům?
+
      Pokud ne, můžete práva opakovat pouze 2x. (celkem i s prvním čtením, říkáte práva 3x)
 
  
@@ -1340,7 +1345,7 @@ V případě, že osoba se nedostaví do 1 hodiny od prvního předvolání, tak
      b) prodá-li vojenské nebo těžké zbraně (kulomety, vrhače granátů) civilní osobě,
      c) prodá-li zbraň osobě mladší 21 let, osobě s trestním záznamem nebo bez platného zbrojního průkazu,
      d) přechovává či prodává střelivo zakázaného typu (granátová munice, střelivo pro těžké zbraně, expanzní, průbojná, výbušná, zápalná nebo jiná speciální
-          munice),
+munice),
      e) způsobí-li takovým činem značnou škodu, škodu velkého rozsahu, újmu na zdraví osoby nebo smrt.
 
 (3) Každá civilní osoba může nakoupit nejvýše sto kusů nábojů na jednu palnou zbraň za den a u sebe nebo při sobě přechovávat maximálně sto-padesát nábojů běžného typu. Překročení těchto limitů je samostatným přestupkem s pokutou 1.000 až 3.000$ a okamžitým odebráním nadlimitní munice.
