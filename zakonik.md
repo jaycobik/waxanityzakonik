@@ -132,7 +132,7 @@ b1) Soud může podmíněně odložit výkon trestu odnětí svobody nepřevyšu
 
 # **TRESTNÉ ČINY PROTI ŽIVOTU A ZDRAVÍ**
 
-## 1 - Vražda
+## §1 - Vražda
 (1) Kdo jiného úmyslně usmrtí, bude potrestán odnětím svobody od 20 do 25 let nebo trestem výjimečným a pokutou ve výši 40.000$.
 
 
