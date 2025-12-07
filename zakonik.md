@@ -720,7 +720,7 @@ je nezpůsobilé k jízdě na pozemní komunikaci a osoba, bude trestána pokuto
      b) Pistol Mk2
      c) SNS pistol
      d) SNS pistol Mk2
-     e) Combat pistol
+     e) Combat pistol / Glock-17
      f) Heavy pistol
      g) Vintage pistol
      h) Ceramic pistol
@@ -1303,6 +1303,9 @@ Kdokoliv kdo je předvolán úřední osobou je povinen se na předvolání dost
 
 V případě, že osoba se nedostaví do 1 hodiny od prvního předvolání, tak může být po ní vyhlášeno pátrání a vedeno soudní řízení ohledně §92 - Neuposlechnutí výzvy úřední osoby. Úřední osoba je povinna předvolat osobu celkem třikrát, až poté lze předvolání brát jako právoplatné.
 
+## §7 - Vykonávání advokátní činnosti
+Ve státě San Andreas nesmí vykonávat advokátní činnost žádná osoba, která není držitelem platné State Bar Licence.
+
 # **Vyhlášky**
 
 ## Vyhláška č. 1 Sb. 2/2025 – Registrace podnikatelské činnosti
@@ -1431,56 +1434,105 @@ munice),
 
 # **Dodatky**
 
-1. Svoboda vyznání, tisku, projevu, právo lidu pokojně se shromažďovat a právo podávat státním orgánům žádosti o nápravu křivd
+## 1. Svoboda vyznání, tisku, projevu, právo lidu pokojně se shromažďovat a právo podávat státním orgánům žádosti o nápravu křivd
+Kongres nesmí vydávat zákony zavádějící nějaké náboženství nebo zákony, které by zakazovaly svobodné vyznávání nějakého náboženství; právě tak nesmí vydávat zákony omezující svobodu slova nebo tisku, právo lidu pokojně se shromažďovat a právo podávat státním orgánům žádosti o nápravu křivd.
 
-2. Právo držet a nosit zbraně
+## 2. Právo držet a nosit zbraně
+Dobře organizovaná domobrana je nezbytná v zájmu bezpečnosti svobodného státu; právo lidu držet a nosit zbraně nesmí být proto omezováno.
 
-3. Ubytování vojáků v soukromých domech
+## 3. Ubytování vojáků v soukromých domech
+Žádný voják nesmí být v době míru ubytován v žádném domě bez souhlasu jeho vlastníka; to platí i v době války, ledaže by se tak stalo způsobem předepsaným zákonem.
 
-4. Právo na ochranu svobody osobní a domovní
+## 4. Právo na ochranu svobody osobní a domovní
+Právo národa na ochranu svobody osobní a domovní, písemností a majetku nesmí být porušováno neoprávněnými prohlídkami a konfiskacemi; nesmí být vydán rovněž žádný příkaz, který by se neopíral o zdůvodněná zjištění, doložená přísahou nebo jiným způsobem potvrzená, a který by neobsahoval přesné určení místa, které má být prohledáno, přesný popis osob, které mají být vzaty do vazby, a věcí, jež mají být zabaveny.
 
-5. Pravidla pro předkládání důkazů a trestu
+## 5. Pravidla pro předkládání důkazů a trestu
+Na každého občana, který se má zodpovídat z hrdelního zločinu nebo jiného těžkého zločinu, musí být podána řádná žaloba ze strany velké poroty - výjimkou tu mohou být případy občanů sloužících v činné službě v pozemních nebo námořních ozbrojených silách nebo v domobraně, a to v době války nebo vážného ohrožení veřejné bezpečnosti; nikdo nesmí být dvakrát trestán ohrožením života nebo zdraví pro týž poklesek; nikdo nesmí být nucen svědčit sám proti sobě; nikdo nesmí být zbaven života, svobody nebo majetku bez řádného soudního procesu; soukromý majetek může být vyvlastněn pouze za náhradu.
 
-6. Práva obžalovaných
+## 6. Práva obžalovaných
+V každém trestním procesu má obžalovaný právo na rychlé a veřejné přelíčení před nestrannou porotou státu a obvodu, na jejichž území měl být trestný čin spáchán a které jsou podle zákona příslušné. Obžalovaný má právo být informován o příčině a povaze obžaloby a konfrontován se svědky obžaloby. Má též právo dát obeslat prostřednictvím státních orgánů svědky ve svůj prospěch a mít na svou obranu obhájce.
 
-7. Právo na soud s porotou nebo bez
+## 7. Právo na soud s porotou nebo bez
+V soudních přích podle obecného práva, přesahuje-li výše pohledávky dvacet dolarů, je zajištěno právo žádat rozhodnutí porotního soudu a žádná skutečnost, již přezkoumaná porotním soudem, nemůže podléhat dalšímu přezkoumání jakýmkoli soudem Spojených států, pokud tak nestanoví obecné právo.
 
-8. Zákaz nadměrných kaucí, nadměrných pokut a krutých a mimořádných trestů
+## 8. Zákaz nadměrných kaucí, nadměrných pokut a krutých a mimořádných trestů
+Nesmějí být vyžadovány nadměrné kauce, ukládány nadměrné pokuty nebo kruté a mimořádné tresty.
 
-9. Výpočet určitých práv ústavou nesmí být vykládán jako popírání nebo zlehčování ostatních práv náležejících lidu
+## 9. Výpočet určitých práv ústavou nesmí být vykládán jako popírání nebo zlehčování ostatních práv náležejících lidu
+Výpočet určitých práv ústavou nesmí být vykládán jako popírání nebo zlehčování ostatních práv náležejících lidu.
 
-10. Práva, která ústava výslovně nepřiznává Unii ani je nevylučuje z pravomoci států, náležejí jednotlivým státům nebo lidu.
+## 10. Práva, která ústava výslovně nepřiznává Unii ani je nevylučuje z pravomoci států, náležejí jednotlivým státům nebo lidu.
+Práva, která ústava výslovně nepřiznává Unii ani je nevylučuje z pravomoci států, náležejí jednotlivým státům nebo lidu. (Prvních deset dodatků nabylo platnosti 15. prosince 1791.)
 
-11. Akce proti státům
+## 11. Akce proti státům
+Soudní moc Spojených států nesmí být vykládána v tom smyslu, že se vztahuje na jakýkoli soudní proces, rozhodovaný podle obecného práva nebo spravedlnosti, započatý nebo vedený občany jednoho státu proti jinému státu nebo občany nebo poddanými cizího státu. (8. ledna 1798)
 
-12. Způsob výběru prezidenta
+## 12. Způsob výběru prezidenta
+Volitelé ve svých státech hlasují zvlášť pro prezidenta a zvlášť pro viceprezidenta; alespoň jeden z nich nesmí být z téhož státu jako volitelé. Sečtené a ověřené listiny posílají předsedovi Senátu; ten je otevře před Kongresem a hlasy se spočítají. Prezidentem se stává ten, kdo získá nadpoloviční většinu všech volitelů. Není-li většina, Sněmovna reprezentantů volí prezidenta z top 3; hlasuje se po státech (každý stát 1 hlas), nutná je účast min. 2/3 států a většina všech států. Pokud Sněmovna do 4. března nezvolí, viceprezident vykonává úřad prezidenta. Viceprezidentem je ten, kdo má většinu volitelů; jinak volí Senát z top 2, při účasti 2/3 senátorů a většině všech senátorů. Kdo není podle ústavy volitelný na prezidenta, nemůže být zvolen viceprezidentem (25. září 1804.)
 
-13. Zrušení otroctví
+## 13. Zrušení otroctví
+Oddíl 1. Ve Spojených státech a na veškerém území, podléhajícím jejich jurisdikci, je zakázáno otroctví i nevolnictví, pokud nejde o výkon trestu za spáchaný a řádně dokázaný zločin.
+Oddíl 2. Kongres podpoří ustanovení tohoto článku příslušným zákonodárstvím. (18. prosince 1865)
 
-14. Zaručení práv a výhod občanství
+## 14. Zaručení práv a výhod občanství
 
-15. Právo volit bez ohledu na rasu
+Oddíl 1. Každý narozený či naturalizovaný v USA je občan USA i svého státu. Státy nesmí omezovat svobody/výsady občanů, zbavovat života, svobody či majetku bez řádného procesu ani upírat rovnou ochranu zákonů.
+Oddíl 2. Počet zástupců ve Sněmovně se dělí podle počtu obyvatel. Pokud stát odepře/omezí volební právo části mužských občanů 21+, sníží se jeho zastoupení úměrně.
+Oddíl 3. Osoby, které po přísaze na ústavu podpořily vzbouření/povstání, nesmí zastávat federální ani státní funkce; Kongres může zákaz zrušit dvoutřetinovou většinou v každé komoře.
+Oddíl 4. Dluh USA je platný a nedotknutelný; dluhy a nároky na podporu povstání či náhrady za ztrátu otroka jsou neplatné.
+Oddíl 5. Kongres může toto ustanovení prosadit zákony. (28. července 1868.)
 
-16. Vznik daně z příjmu
+## 15. Právo volit bez ohledu na rasu
+Oddíl 1. Spojené státy ani jakýkoli jednotlivý stát nesmějí popřít ani omezit volební právo žádného občana Spojených států z důvodů rasových, barvy pleti nebo bývalého otroctví.
+Oddíl 2. Kongres je zmocněn provést ustanovení tohoto článku v příslušném zákonodárství. (30. března 1870)
 
-17. Způsob volby a počet senátorů
+## 16. Vznik daně z příjmu
+Kongres má právo stanovit a vybírat daně z příjmů z jakéhokoli zdroje, aniž by je rozděloval mezi jednotlivé státy a bez ohledu na jakékoli sčítání obyvatelstva. (25. února 1913)
 
-18. Zavedení prohibice
+## 17. Způsob volby a počet senátorů
 
-19. Právo žen volit
+2 senátoři za každý stát, voleni obyvateli státu na 6 let; každý má 1 hlas. Voliči musí splňovat podmínky jako pro nejpočetnější komoru zákonodárného sboru státu. Uvolněné místo: guvernér vyhlásí doplnovací volby; státní legislativa může guvernéra zmocnit k dočasnému jmenování do voleb. Netýká se mandátů senátorů zvolených před účinností článku. (31. května 1913.)
 
-20. Změna termínu začátku nového kongresu a prezidenta.
+## 18. Zavedení prohibice
+Oddíl 1. Rok po ratifikaci tohoto článku se zakazuje výroba, prodej nebo doprava omamných nápojů, jejich dovoz a vývoz s clem jejich použití na území Spojených států a všech územích podléhajících jejich jurisdikci.
+Oddíl 2. Kongres i jednotlivé státy mají jednotné právo provést ustanovení tohoto článku v příslušném zákonodárství.
+Oddíl 3. Tento článek bude neplatný, nebude-li ratifikován jako doplněk k ústavě zákonodárnými sbory jednotlivých států, jak to předpokládá ústava, během sedmi let od okamžiku, kdy jej Kongres předložil státům ke schválení. (29. ledna 1919)
 
-21. Zrušení prohibice
+## 19. Právo žen volit
+Spojené státy ani jakýkoli jednotlivý stát nesmějí popřít ani omezit volební právo občanů Spojených států z důvodů pohlaví. Kongres provede ustanovení tohoto článku v příslušném zákonodárství. (26. srpna 1920)
 
-22. Omezení prezidentství na dvě funkční období
+## 20. Změna termínu začátku nového kongresu a prezidenta.
 
-23. Zastoupení Washingtonu D.C. ve sboru volitelů
+Oddíl 1. Funkční období prezidenta a viceprezidenta končí 20. ledna v poledne, senátorů a poslanců 3. ledna v poledne; nástupci začínají v ten okamžik.
+Oddíl 2. Kongres se schází nejméně jednou ročně; zasedání začíná 3. ledna v poledne, pokud zákon neurčí jinak.
+Oddíl 3. Zemře-li zvolený prezident před nástupem, viceprezident-elect se stává prezidentem. Není-li prezident zvolen nebo nekvalifikuje se, viceprezident-elect úřad dočasně vykonává; Kongres určí postup, když nenastoupí ani jeden.
+Oddíl 4. Kongres může stanovit pravidla pro úmrtí kandidátů, z nichž může prezidenta volit Sněmovna nebo viceprezidenta Senát.
+Oddíl 5. Oddíly 1 a 2 nabývají účinnosti 15. října po ratifikaci.
+Oddíl 6. Dodatek platí jen, pokud je ratifikován do 7 let od předložení. (6. února 1933)
 
-24. Zrušení daně z hlasování ve federálních volbách
+## 21. Zrušení prohibice
+Oddíl 1. XVIII. dodatek k Ústavě Spojených států se tímto ruší.
+Oddíl 2. Převoz nebo dovoz alkoholických nápojů do kteréhokoli státu nebo na kterékoli území Spojených států s účelem jejich spotřeby se tímto zakazuje, odporuje-li zákonům těchto států.
+Oddíl 3. Tento článek se nestane účinným, nebude-li ratifikován jako dodatek k ústavě legislaturami jednotlivých států v souladu s ústavou do sedmi let ode dne, kdy jej Kongres předloží státům k ratifikaci. (5. prosince 1933)
 
-25. Předání moci v případě smrti prezidenta
+## 22. Omezení prezidentství na dvě funkční období
+Oddíl 1. Prezident může být zvolen maximálně dvakrát. Kdo vykonával úřad více než 2 roky z cizího období, může být zvolen jen jednou. Ustanovení se nevztahuje na osobu, která byla prezidentem v době navržení dodatku, a nebrání úřadujícímu prezidentovi při nabytí účinnosti dodatku dokončit aktuální období.
+Oddíl 2. Dodatek vstoupí v platnost jen tehdy, když jej do 7 let ratifikují zákonodárné sbory tří čtvrtin států. (27. února 1951)
 
-26. Právo volit od 18 let věku
+## 23. Zastoupení Washingtonu D.C. ve sboru volitelů
+Oddíl 1. Federální okrsek (sídlo vlády USA) má volitele prezidenta a viceprezidenta v počtu, jako by byl státem (senátoři + poslanci), nejvýše však jako nejmenší stát. Tito volitelé se počítají jako státní volitelé a scházejí se v okrsku k provedení volby.
+Oddíl 2. Kongres může přijmout zákony k provedení tohoto dodatku. (29. března 1961)
 
-27. Nabytí účinnosti zákonné úpravy odměn členům Kongresu
+## 24. Zrušení daně z hlasování ve federálních volbách
+Oddíl 1. Volební právo občanů Spojených států nesmí být popíráno nebo zkracováno Spojenými státy nebo kterýmkoli státem z důvodu nezaplacení jakékoli volební daně nebo jiné daně.
+Oddíl 2. Kongres je oprávněn učinit zákonodárná opatření k provedení tohoto dodatku. (23. ledna 1964)
+
+## 25. Předání moci v případě smrti prezidenta
+Oddíl 1. Při odvolání, úmrtí nebo rezignaci prezidenta se prezidentem stává viceprezident.
+Oddíl 2. Uvolní-li se úřad viceprezidenta, prezident nominuje nástupce; ten nastoupí po schválení většinou obou komor Kongresu.
+Oddíl 3. Prezident může písemně oznámit nezpůsobilost; do odvolání oznámení vykonává pravomoci viceprezident jako úřadující prezident.
+Oddíl 4. Viceprezident + většina vedoucích exekutivy (nebo orgán určený Kongresem) mohou prezidenta označit za nezpůsobilého; viceprezident se stává úřadujícím prezidentem. Prohlásí-li prezident znovu způsobilost a je to do 4 dnů napadeno, Kongres se sejde do 48 h a do 21 dnů rozhodne: při 2/3 většině v obou komorách zůstává u moci viceprezident, jinak se pravomoci vrací prezidentovi. (10. února 1967)
+
+## 26. Právo volit od 18 let věku
+Oddíl 1. Spojené státy ani kterýkoli jednotlivý stát nesmějí omezit volební právo občanů Spojených států starších osmnácti let z důvodů věku.
+Oddíl 2. Kongres je zmocněn provést ustanovení tohoto článku v příslušném zákonodárství. (30. června 1971)
