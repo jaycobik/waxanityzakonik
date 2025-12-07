@@ -676,34 +676,34 @@ je nezpůsobilé k jízdě na pozemní komunikaci a osoba, bude trestána pokuto
 §1 - Přechovávání omamných a psychotropních látek
 (1) Limity pro držení určitého množství omamných a psychotropních látek
 
-a) Přechovávání omamných a psychotropních látek od 1 do 28,5 gramů v případě 1.1 a 1.2 je legální
-b) Přechovávání omamných a psychotropních látek nad 28,5 do 100 gramů v případě 1.1 a 1.2 je trestný čin, který se trestá odnětím svobody od 3 do 8 let a pokutou ve výši 7.500$
-c) Přechovávání omamných a psychotropních látek více jak 100 gramů v případě 1.1 a 1.2 je trestný čin, který se trestá odnětím svobody od 6 do 12 let a pokutou ve výši 13.000$
-d) Přechovávání omamných a psychotropních látek pod 75 gramů či lahviček v případě (2) (3) (4) (5) (6) dělení drog a jejich podkategorie nevyjímaje látky spojené s výrobou drogy je trestný čin, který se trestá odnětím svobody od 7 do 11 let a pokutou 10.000$
-e) Přechovávání omamných a psychotropních látek nad 75 gramů či lahviček v případě (2) (3) (4) (5) (6) dělení drog a jejich podkategorie nevyjímajelátky spojené s výrobou drogy je trestný čin, který se trestá odnětím svobody od 9 do 16 let a pokutou 17.000$
+     a) Přechovávání omamných a psychotropních látek od 1 do 28,5 gramů v případě 1.1 a 1.2 je legální.
+     b) Přechovávání omamných a psychotropních látek nad 28,5 do 100 gramů v případě 1.1 a 1.2 je trestný čin, který se trestá odnětím svobody od 3 do 8 let a pokutou ve výši 7.500$.
+     c) Přechovávání omamných a psychotropních látek více jak 100 gramů v případě 1.1 a 1.2 je trestný čin, který se trestá odnětím svobody od 6 do 12 let a pokutou ve výši 13.000$.
+     d) Přechovávání omamných a psychotropních látek pod 75 gramů či lahviček v případě (2) (3) (4) (5) (6) dělení drog a jejich podkategorie nevyjímaje látky spojené s výrobou drogy je trestný čin, který se trestá odnětím svobody od 7 do 11 let a pokutou 10.000$.
+     e) Přechovávání omamných a psychotropních látek nad 75 gramů či lahviček v případě (2) (3) (4) (5) (6) dělení drog a jejich podkategorie nevyjímajelátky spojené s výrobou drogy je trestný čin, který se trestá odnětím svobody od 9 do 16 let a pokutou 17.000$.
 
 (2) Přechovávat omamné a psychotropní látky v případě 1.1, 1.2 mohou pouze osoby pohybující se na území státu San Andreas starší ve věku 21 let, podle dovoleného množství v odstavci (1) v §1.
 
 ## §2 - Nedovolené nakládání a výroba omamných a psychotropních látek
 (1) Kdo neoprávněně vyrobí nebo zprostředkuje nedovolené množství určité drogy, bude potrestán podle zákonu o návykových látkách, §2 - Nedovolené nakládání a výroba omamných a psychotropních látek
 
-a) Pěstování do 6 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště v případě, že rostliny jsou v uzamčeném prostoru a nesmí býtviditelné pro veřejnost je legální.
-b) Pěstování více jak 6 rostlin a méně jak 50 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště je trestný čin, který se trestná odnětím svobody od 5 do 10 let a pokutou 19.000$
-b1) V případě pěstování rostlin na veřejném místě přístupné pro veřejnost se trestá odnětím svobody od 8 do 14 let a pokutou 29.000$
-c) Pěstování více jak 50 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště je trestný čin, který se trestná odnětím svobody od 8 do 12 let a pokutou 28.000$
-c1) V případě pěstování rostlin na veřejném místě přístupné pro veřejnost se trestá odnětím svobody od 10 do 18 let a pokutou 36.000$
-d) Výroba omamné a psychotropní látky v případě (2) (3) (4) (5) (6) dělení drog do 50 gramů je trestný čin, který se trestá odnětím svobody od 10 do 15 let a pokutou ve výši 39.000$
-d1) V případě výroby nad 50 gramů u drog (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím svobody od 14 do 18 let a pokutou ve výši 51.000$
+     a) Pěstování do 6 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště v případě, že rostliny jsou v uzamčeném prostoru a nesmí býtviditelné pro veřejnost je legální.
+     b) Pěstování více jak 6 rostlin a méně jak 50 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště je trestný čin, který se trestná odnětím svobody od 5 do 10 let a pokutou 19.000$
+     b1) V případě pěstování rostlin na veřejném místě přístupné pro veřejnost se trestá odnětím svobody od 8 do 14 let a pokutou 29.000$
+     c) Pěstování více jak 50 rostlin kanabisu ve svém soukromém pozemku nebo svého bydliště je trestný čin, který se trestná odnětím svobody od 8 do 12 let a pokutou 28.000$
+     c1) V případě pěstování rostlin na veřejném místě přístupné pro veřejnost se trestá odnětím svobody od 10 do 18 let a pokutou 36.000$
+     d) Výroba omamné a psychotropní látky v případě (2) (3) (4) (5) (6) dělení drog do 50 gramů je trestný čin, který se trestá odnětím svobody od 10 do 15 let a pokutou ve výši 39.000$
+     d1) V případě výroby nad 50 gramů u drog (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím svobody od 14 do 18 let a pokutou ve výši 51.000$
 
 (2) Vyrábět a nakládat s omamnými a psychotropními látkami mohou pouze osoby pohybující se na území státu San Andreas starší ve věku 21 let, podle dovoleného množství v odstavci (1) v §2.
 
 ## §3 - Šíření omamných a psychotropních látek
 (1) Kdo neoprávněně doveze, převeze, vyveze, prodá, nabídne nebo opatří někomu omamnou nebo psychotropní látku, bude potrestán podle zákonu o návykových látkách, §3 - Šíření omamných a psychotropních látek
 
-a) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy do 50 gramů v případě 1.1, 1.2 a 1.3 je trestný čin, který se trestá odnětím svobody od 4 do 7 let a pokutou ve výši 9.000$
-b) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy více jak 50 gramů v případě 1.1, 1.2 a 1.3 je trestný čin, který se trestá odnětím svobody od 6 do 9 let a pokutou ve výši 14.000$
-c) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy do 50 gramů v případě (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím svobody od 10 do 16 let a pokutou ve výši 17.000$
-d) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy více jak 50 gramů v případě (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím svobody od 13 do 17 let a pokutou ve výši 22.000$
+     a) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy do 50 gramů v případě 1.1, 1.2 a 1.3 je trestný čin, který se trestá odnětím svobody od 4 do 7 let a pokutou ve výši 9.000$
+     b) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy více jak 50 gramů v případě 1.1, 1.2 a 1.3 je trestný čin, který se trestá odnětím svobody od 6 do 9 let a pokutou ve výši 14.000$
+     c) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy do 50 gramů v případě (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím svobody od 10 do 16 let a pokutou ve výši 17.000$
+     d) Dovoz, přívoz, vývoz, prodej, nabídka nebo opatření drogy více jak 50 gramů v případě (2) (3) (4) (5) (6) dělení drog je trestný čin, který se trestá odnětím svobody od 13 do 17 let a pokutou ve výši 22.000$
 
 # **Firearms Act - FIR**
 
