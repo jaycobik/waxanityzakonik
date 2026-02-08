@@ -2,7 +2,7 @@
 
 📘 TRESTNÍ ZÁKONÍK MĚSTA LOS SANTOS
 
-📜 Schváleno Městskou radou Los Santos 🗓 Účinné od: 1. února 2026
+📜 Schváleno Městskou radou Los Santos 🗓 Účinné od: 1. května 2025
 
 # **HLAVA I: OBECNÁ USTANOVENÍ**
 ## §1 – Účel zákoníku Tento zákoník stanovuje právní rámec pro vymezení trestných činů a přestupků, určuje odpovědnost za jejich spáchání a stanovuje druhy a výměru sankcí, které lze uložit. Slouží k ochraně veřejného pořádku, osobní bezpečnosti, majetku, důstojnosti a dalších hodnot chráněných právem.
@@ -43,19 +43,27 @@ Polehčující: přiznání, lítost, spolupráce s úřady.
 Přitěžující: recidiva, brutalita, čin spáchaný na úřední osobě, zneužití zbraně.
 
 # **HLAVA II: TRESTNÉ ČINY PROTI ŽIVOTU A ZDRAVÍ**
-## §7 – Vražda Úmyslné usmrcení jiné osoby s předem uváženým úmyslem nebo za přitěžujících okolností (např. krutý způsob, více obětí). Trest: 60 až 80 měsíců odnětí svobody, možnost doživotního zákazu držení zbraně.
+## §7 – Vražda
+Úmyslné usmrcení jiné osoby s předem uváženým úmyslem nebo za přitěžujících okolností (např. krutý způsob, více obětí). Trest: 60 až 80 měsíců odnětí svobody, možnost doživotního zákazu držení zbraně.
 
-## §8 – Zabití z nedbalosti Neúmyslné usmrcení způsobené hrubou nedbalostí (např. při řízení). Trest: 30 až 50 měsíců odnětí svobody.
+## §8 – Zabití z nedbalosti 
+Neúmyslné usmrcení způsobené hrubou nedbalostí (např. při řízení). Trest: 30 až 50 měsíců odnětí svobody.
 
-## §9 – Těžké ublížení na zdraví Způsobení vážné fyzické újmy jiné osobě s trvalými následky. Trest: 20 až 40 měsíců odnětí svobody.
+## §9 – Těžké ublížení na zdraví 
+Způsobení vážné fyzické újmy jiné osobě s trvalými následky. Trest: 20 až 40 měsíců odnětí svobody.
 
-## §10 – Úmyslné ublížení na zdraví Útok, při kterém dojde k fyzickému zranění oběti bez trvalých následků. Trest: 15 až 30 měsíců odnětí svobody.
+## §10 – Úmyslné ublížení na zdraví 
+Útok, při kterém dojde k fyzickému zranění oběti bez trvalých následků. Trest: 15 až 30 měsíců odnětí svobody.
 
-## §11 – Napadení Jakýkoliv fyzický útok na jinou osobu bez použití zbraně. Trest: 5 až 15 měsíců odnětí svobody nebo peněžitý trest od $1,000 do $5,000.
+## §11 – Napadení 
+Jakýkoliv fyzický útok na jinou osobu bez použití zbraně. Trest: 5 až 15 měsíců odnětí svobody nebo peněžitý trest od $1,000 do $5,000.
 
-## §12 – Vyhrožování smrtí nebo násilím Slovní nebo písemná hrozba násilím, která vzbuzuje důvodnou obavu. Trest: 10 až 20 měsíců odnětí svobody.
+## §12 – Vyhrožování smrtí nebo násilím 
+Slovní nebo písemná hrozba násilím, která vzbuzuje důvodnou obavu. Trest: 10 až 20 měsíců odnětí svobody.
 
-## §13 – Účast na rvačce Fyzické zapojení do násilného střetu více osob na veřejném místě. Trest: 5 až 10 měsíců odnětí svobody, možnost zákaz vstupu do veřejných prostor.
+## §13 – Účast na rvačce 
+Fyzické zapojení do násilného střetu více osob na veřejném místě. Trest: 5 až 10 měsíců odnětí svobody, možnost zákaz vstupu do veřejných prostor.
+
 # **HLAVA III: TRESTNÉ ČINY PROTI SVOBODĚ A DŮSTOJNOSTI**
 ## §14 – Znásilnění
 
@@ -399,4 +407,4 @@ Psychologická léčba nebo terapie (např. u násilných činů nebo závislost
 
 ⚖️ Tento zákoník je závazný a vymahatelný všemi složkami města. V případě sporu rozhoduje Městský soud Los Santos.
 
-🗓 Účinnost: Tento zákoník vstupuje v platnost dne 1. února 2026.
+🗓 Účinnost: Tento zákoník vstupuje v platnost dne 1. května 2025.
