@@ -5,7 +5,8 @@
 📜 Schváleno Městskou radou Los Santos 🗓 Účinné od: 1. května 2025
 
 # **HLAVA I: OBECNÁ USTANOVENÍ**
-## §1 – Účel zákoníku Tento zákoník stanovuje právní rámec pro vymezení trestných činů a přestupků, určuje odpovědnost za jejich spáchání a stanovuje druhy a výměru sankcí, které lze uložit. Slouží k ochraně veřejného pořádku, osobní bezpečnosti, majetku, důstojnosti a dalších hodnot chráněných právem.
+## §1 – Účel zákoníku 
+Tento zákoník stanovuje právní rámec pro vymezení trestných činů a přestupků, určuje odpovědnost za jejich spáchání a stanovuje druhy a výměru sankcí, které lze uložit. Slouží k ochraně veřejného pořádku, osobní bezpečnosti, majetku, důstojnosti a dalších hodnot chráněných právem.
 
 ## §2 – Vymezení základních pojmů
 
