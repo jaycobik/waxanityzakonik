@@ -2,7 +2,7 @@
 
 📘 TRESTNÍ ZÁKONÍK MĚSTA LOS SANTOS
 
-📜 Schváleno Městskou radou Los Santos 🗓 Účinné od: 1. května 2025
+📜 Schváleno Městskou radou Los Santos 🗓 Účinné od: 1. února 2026
 
 # **HLAVA I: OBECNÁ USTANOVENÍ**
 ## §1 – Účel zákoníku 
@@ -408,4 +408,4 @@ Psychologická léčba nebo terapie (např. u násilných činů nebo závislost
 
 ⚖️ Tento zákoník je závazný a vymahatelný všemi složkami města. V případě sporu rozhoduje Městský soud Los Santos.
 
-🗓 Účinnost: Tento zákoník vstupuje v platnost dne 1. května 2025.
+🗓 Účinnost: Tento zákoník vstupuje v platnost dne 1. února 2026.
