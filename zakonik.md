@@ -1,6 +1,6 @@
 # 🏛 MĚSTO LOS SANTOS · STÁT SAN ANDREAS
 # 📘 TRESTNÍ ZÁKONÍK 
-## California Penal Code 
+## San Andreas Penal Code 
 
 📜 Schváleno Městskou radou Los Santos a příslušnými orgány státu San Andreas  
 🗓 Účinné od: 1. února 2026  
