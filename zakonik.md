@@ -11,7 +11,7 @@ Tento zákoník aplikuje California Penal Code (Cal. Pen. Code), California Heal
 
 # ČÁST 0 – ZÁKLADNÍ INFORMACE A PRÁVNÍ RÁMEC
 
-## Americká legislativa
+## Americká legislativa!
 (1) Zákonodárná moc USA je jednou ze tří větví vlády. Kongres je dvoukomorový: Sněmovna reprezentantů (435 členů) a Senát (100 členů). Hlavním úkolem Kongresu je tvorba zákonů. Proces přijímání zákonů zahrnuje návrh zákona (bill), projednání v obou komorách, schválení a podepsání prezidentem.
 
 (2) USA mají federální systém práva: zákony existují na federální úrovni i na úrovni států. Obrana a zahraniční politika jsou v kompetenci federace; školství a zdravotnictví řídí státy. Nejvyšší soud USA má pravomoc přezkoumávat zákony a rozhodovat o jejich ústavnosti (judicial review).
