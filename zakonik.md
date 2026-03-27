@@ -789,24 +789,6 @@
 
 (1) Každá osoba, která úmyslně klade odpor, zdržuje nebo brání Peace Officerovi, záchranáři nebo jinému veřejnému činiteli při zákonném výkonu jeho povinností nebo při provádění zatčení, je vinna přečinem trestaným pokutou až 1 000 $ a/nebo odnětím svobody až na 1 rok.
 
-12. Braní rukojmí a únos (Kidnapping and False Imprisonment – VEH / PC § 207, § 209, § 236)
-
-(1) Braní rukojmí a únos nastává, když osoba neoprávněně omezuje osobní svobodu jiné osoby, přemísťuje ji proti její vůli nebo ji zadržuje za účelem nátlaku, vydírání nebo získání prospěchu.
-
-(a) Únos (Kidnapping – PC § 207): Každá osoba, která násilím, hrozbou nebo podvodem přemístí jinou osobu na jiné místo bez jejího souhlasu, je vinna zločinem trestaným odnětím svobody na 3, 5 nebo 8 let, přičemž soud může uložit pokutu, náhradu škody a další přitěžující okolnosti.
-
-(b) Braní rukojmí (Aggravated Kidnapping – PC § 209): Každá osoba, která unese nebo zadržuje jinou osobu za účelem výkupného, nátlaku na třetí osobu nebo jako prostředek k usnadnění jiného trestného činu, je vinna závažným zločinem trestaným odnětím svobody až na 15 let s možností podmíněného propuštění, případně bez něj, v závislosti na okolnostech případu.
-
-(c) Neoprávněné zadržování (False Imprisonment – PC § 236): Každá osoba, která úmyslně a neoprávněně omezuje osobní svobodu jiné osoby bez jejího souhlasu, je vinna přestupkem nebo zločinem trestaným pokutou až 1 000 $ a/nebo odnětím svobody až na 1 rok, v závažnějších případech až 3 roky.
-
-(2) Za přitěžující okolnosti se považuje zejména:
-     (a) použití zbraně nebo nebezpečného nástroje,
-     (b) způsobení zranění nebo ohrožení života oběti,
-     (c) spáchání činu na dítěti nebo zranitelné osobě,
-     (d) spáchání činu jako součást organizované trestné činnosti.
-
-(3) Pokus o spáchání těchto činů nebo napomáhání k nim je trestné stejným způsobem jako dokonaný čin, s možností snížení trestu dle uvážení soudu.
-
 ---
 
 ## HLAVA II. – TRESTNÉ ČINY PROTI SVOBODĚ A SOUKROMÍ
