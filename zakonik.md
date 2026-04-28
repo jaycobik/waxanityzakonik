@@ -1,4 +1,4 @@
-# ÚSTAVA STÁTU SAN ANDREAS
+# ÚSTAVA STÁTU SAN ANDREAS -> AHOJ DENNY
 
 (1) Právní předpisy státu San Andreas. Tento dokument obsahuje Ústavu státu San Andreas, zákony o ustanovení státních složek (LEA), o ozbrojených složkách, trestní zákoník (Penal Code), zákon o zbraních, soudnictví, licencování, letectví a lovu.
 
