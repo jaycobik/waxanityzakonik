@@ -2443,7 +2443,7 @@ Každá osoba, která spáchá násilný čin nebo čin ohrožující lidský ž
 ### ČLÁNEK VI. – Povinnosti provozovatelů
 
 6.1 Řidiči nesmí odmítat jízdy do vzdálenosti 10 km od místa zastavení, zakázáno je kouření ve vozidle a jízda pod vlivem alkoholu.
-6.2 Vozidla musí být vybavena funkčním GPS systémem, počítadlem tarifů a udržována v čistotě, denní kontroly jsou povinné.
+6.2 Vozidla musí být vybavena funkčním GPS systémem, počítadlem tarifů a udržována v čistotě, denní kontroly jsou povinné.
 6.3 Cestující mají právo na sazbu podle počítadla, možnost podání stížnosti na úřední hotline a odmítnutí jízdy při porušení bezpečnosti.
 
 ### ČLÁNEK VII. – Sankce
