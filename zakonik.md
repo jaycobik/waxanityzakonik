@@ -2308,7 +2308,7 @@ Každá osoba, která spáchá násilný čin nebo čin ohrožující lidský ž
 
 (2) Pokud se takové jednání opakovaně opakuje, FAA a příslušné soudní orgány mohou uložit pokutu až 150 000 $ a odebrání pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
-14. Nepředletová kontrola (Pre-Flight Inspection)
+14. Předletová kontrola (Pre-Flight Inspection)
 
 (1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a neprovede povinnou předletovou kontrolu před letem, je vinna přečinem a může být potrestána pokutou až 5 000 $.
 
