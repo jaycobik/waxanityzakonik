@@ -161,16 +161,6 @@
      (g) LSSD má zodpovědnost za správu věznic a vězeňských zařízení, bezpečnost vězňů, převoz do soudů, programy rehabilitace a poskytuje ochranu soudů a vybraných státních budov. 
      (h) LSSD má povinnost koordinovat s dalšími Law Enforcement Agency nebo Public Safety Agency.
 
-     (4) Air Marshal Service
-     (a) Air Marshal Service je státní ozbrojenou složkou.
-     (b) Air Marshal Service má působnost na celém území San Andreas a přilehlých ostrovech včetně Cayo Perico. 
-     (c) Air Marshal Service slouží veřejnosti a jejím úkolem je zajistit ochranu vzdušného prostoru, jeho plynulost a ochranu osob a majetku.
-     (d) Povinnosti a úkoly spojené se službou vykonávají Marshal Officers. 
-     (e) Za Air Marshal Service zodpovídá Director of FAA.
-     (f) Příslušník Air Marshal Service je povinen řídit se Law Enforcement Act a může své pravomoci využít pouze k vymáhání leteckého zákona dle Flight and Aviation Code nebo k vyšetřování leteckých incidentů a nelegálních letů.
-     (g) Air Marshal Service může zadržet osobu za porušení Flight and Aviation Code nebo leteckých předpisů, provádět kontrolu osob, zavazadel a leteckých zařízení, zabavovat pilotní licence, průkazy a jiné relevantní dokumenty spojené s letectvím a vyhlásit dočasné omezení vzdušného prostoru („no-fly zone“) v případě bezpečnostní hrozby. 
-     (h) Air Marshal Service má povinnost koordinovat s dalšími Law Enforcement Agency nebo Public Safety Agency.
-
 2. Public Safety Agency (PSA)
 
 (1) Public Safety Agency jsou společnosti nebo organizace poskytující služby veřejné bezpečnosti, které nejsou přímo součástí Law Enforcement Agencies a nemají právní pravomoc k vynucování zákonů, zajišťování podezřelých ani trestnímu stíhání. Mezi ně patří složky uvedené v odstavcích (2) až (5).
@@ -2226,140 +2216,146 @@ Každá osoba, která spáchá násilný čin nebo čin ohrožující lidský ž
 
 (1) Pilotní licence je oficiální oprávnění k pilotování letadel v San Andreas vydané FAA.
 
-(2) Každá osoba, která řídí nebo pilotuje letadlo či jiný řízený létající stroj v Kalifornii bez platné pilotní licence vydané Federální leteckou administrací (FAA), je vinna přečinem trestaným pokutou až 5 000 $ a/nebo odnětím svobody až na 6 měsíců, přičemž soud může uložit také podmíněný trest, zákaz dalšího pilotování a povinnost absolvovat odpovídající školení či získat platnou licenci.
+(2) Každá osoba, která řídí nebo pilotuje letadlo či jiný řízený létající stroj v Kalifornii bez platné pilotní licence vydané Federální leteckou správou (FAA), je vinna přečinem trestaným pokutou až 50 000 $ a/nebo odnětím svobody až na 2 roky, přičemž FAA může uložit také zákaz dalšího pilotování a povinnost absolvovat odpovídající školení či získat platnou licenci.
 
 2. Povinnost vést Flight Record (Flight Record)
 
 (1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj, je povinna vést přesný a úplný Flight Record (letecký záznam) před každým letem a uchovávat jej podle pravidel FAA.
 
 (2) Porušení povinnosti:
-     (a) Pokud je Flight Record nevyplněný, neúplný nebo obsahuje nepravdivé údaje, je pilot vinný přestupkem, a může být trestán pokutou až 10 000 $ a zápisem do registru FAA, přičemž FAA může uložit další opatření, například upozornění nebo dohled.
-     (b) Pokud se porušení opakovaně opakuje, FAA může uložit pokutu až 15 000 $ a dočasnou suspendaci pilotní licence (např. na 14 dní), přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+     (a) Pokud je Flight Record nevyplněný, neúplný nebo obsahuje nepravdivé údaje, je pilot vinný přestupkem, a může být trestán pokutou až 20 000 $ a zápisem do registru FAA, přičemž FAA může uložit další opatření, například upozornění nebo dohled.
+     (b) Pokud se porušení opakuje, FAA může uložit pokutu až 25 000 $ a dočasnou suspendaci pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
 3. Povinnost spojení přes vysílačku (Transponder / Radio)
 
 (1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj, je povinna během letu udržovat aktivní spojení přes palubní rádio/transponder na příslušných frekvencích FAA, CTR nebo UNICOM a dodržovat pravidla komunikace stanovená FAA.
 
 (2) Poušení povinnosti: 
-     (a) Pokud je spojení neaktivní, nesprávně nastavené nebo neodpovídá předepsané frekvenci, je pilot vinný přestupkem, a může být trestán pokutou až 15 000 $, přičemž FAA může rovněž uložit další opatření (např. varování, záznam do registru).
-     (b) Pokud se porušení opakovaně opakuje, FAA může uložit pokutu až 25 000 $ a dočasnou suspendaci pilotní licence (např. na 30 dní), přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+     (a) Pokud je spojení neaktivní, nesprávně nastavené nebo neodpovídá předepsané frekvenci, je pilot vinný přestupkem, a může být trestán pokutou až 50 000 $, přičemž FAA může rovněž uložit další opatření (např. varování, záznam do registru). 
+     (b) Pokud se porušení opakuje, FAA může uložit pokutu až 100 000 $ a dočasnou suspendaci pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
-4. Létání v omezeném prostoru (Limited Airspace)
+4. Létání s neoznačeným / Ilegálním letadlem (Unregistered Aircraft)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj do omezeného nebo zakázaného vzdušného prostoru (Restricted / Controlled Airspace) bez povolení FAA nebo letového dispečinku (ATC), je vinna přečinem a může být potrestána pokutou až 20 000 $.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj který nemá platné identifikační znaky (imatrikulaci) vydané FAA, nebo je zabaven/odcizen, je vinna zločinem a může být potrestána pokutou až 75 000 $, odebráním pilotní licence a odnětím svobody na 3 až 6 let.
 
-(2) Pokud se takové jednání opakovaně opakuje, FAA může uložit pokutu až 35 000 $ a dočasnou suspendaci pilotní licence na 14 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+(2) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj který nemá platné identifikační znaky (imatrikulaci) vydané FAA, nebo je zabaven/odcizen, je vinna zločinem a může být potrestána pokutou až 75 000 $, odebráním pilotní licence a odnětím svobody na 3 až 6 let.
 
-5. Létání v zakázaném prostoru (Restricted Airspace)
+5. Létání v omezeném prostoru (Limited Airspace)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj do zakázaného vzdušného prostoru (Restricted Airspace) – například civilní nebo vojenské zóny – bez povolení FAA nebo příslušného letového dispečinku (ATC), je vinna přečinem a může být potrestána pokutou až 50 000 $ a odebráním pilotní licence.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a vstoupí do omezeného prostoru (Restricted / Controlled Airspace) bez povolení FAA nebo letového dispečinku (ATC), je vinna přečinem a může být potrestána pokutou až 100 000 $.
 
-(2) Pokud se takové jednání opakovaně opakuje, FAA může uložit pokutu až 100 000 $ a dočasnou suspendaci pilotní licence na 60 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+(2) Pokud se takové jednání opakuje, FAA může uložit pokutu až 250 000 $ a dočasnou suspendaci pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
-6. Neoprávněné přistání (Unauthorized Landing)
+6. Létání v zakázaném prostoru (Restricted Airspace)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a přistane mimo schválené letiště, helipad nebo jiné povolené přistávací místo bez důvodu nouze nebo povolení FAA / ATC, je vinna přečinem podle federálního letectví a může být potrestána pokutou až 30 000 $.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a vstoupí do zakázaného vzdušného prostoru (Restricted Airspace) – například civilní nebo vojenské zóny – bez povolení FAA nebo příslušného letového dispečinku (ATC), je vinna přečinem a může být potrestána pokutou až 100 000 $ a odebráním pilotní licence.
 
-(2) Pokud se takové jednání opakovaně opakuje, FAA může uložit pokutu až 50 000 $ a dočasnou suspendaci pilotní licence na 30 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+(2) Pokud se takové jednání opakuje, FAA může uložit pokutu až 250 000 $ a dočasnou suspendaci pilotní licence na 60 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
-7. Minimální výšky letu (Minimum Altitude)
+7. Vstup do vzdušného prostoru záchranných složek (SAR / Fire Zone / …)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a nedodržuje minimální výšku letu stanovenou FAA, je vinna přečinem trestaným pokutou až 10 000 $.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a vstoupí do vzdušného prostoru nad aktivním zásahem státních složek (požáry, pátrací akce, aktivní střelci) bez předchozího souhlasu velitele zásahu nebo ATC, je vinna přečinem a může být potrestána pokutou až 50 000 $ a dočasným odebráním pilotní licence.
+
+(2) Pokud se takové jednání opakuje, FAA může uložit pokutu až 100 000 $ a odebrání pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+
+8. Neoprávněné přistání (Unauthorized Landing)
+
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a přistane mimo schválené letiště, helipad nebo jiné povolené přistávací místo bez důvodu nouze nebo povolení FAA / ATC, je vinna přečinem a může být potrestána pokutou až 30 000 $.
+
+(2) Pokud se takové jednání opakuje, FAA může uložit pokutu až 80 000 $ a dočasnou suspendaci pilotní licence na 30 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+
+9. Nouzové přistání a povinnost hlášení (Emergency Landing & Mayday)
+
+(1) V případě nouze (selhání motoru, nedostatek paliva) má pilot právo přistát na jakémkoliv bezpečném místě. Je však povinen okamžitě vyslat signál "MAYDAY" na vysílačce a po přistání neprodleně informovat LEO (Law Enforcement) a FAA.
+
+(2) Porušení povinnosti: Pokus o simulaci "falešné nouze" za účelem přistání na zakázaném místě se trestá podle bodu 6 s přirážkou pokuty až 40 000 $ a možností odebrání pilotní licence.
+
+10. Minimální výšky letu (Minimum Altitude)
+
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a nedodržuje minimální výšku letu stanovenou FAA, je vinna přečinem trestaným pokutou až 35 000 $.
 
 (2) Minimální výšky:
-     (a) Nad hustě obydlenými oblastmi (např. Los Santos / městské oblasti): minimálně 2 000 ft AGL
+     (a) Nad obydlenými oblastmi (např. Los Santos / městské oblasti): minimálně 1 000 ft AGL
      (b) Nad otevřenou krajinou: minimálně 500 ft AGL
 
-(3) Pokud se takové jednání opakovaně opakuje, FAA může uložit pokutu až 20 000 $ a dočasnou suspendaci pilotní licence na 14 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+(3) Pokud se takové jednání opakuje, FAA může uložit pokutu až 80 000 $ a dočasnou suspendaci pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
-8. Let bez clearance (Flight Without Clearance)
+11. Komerční a nákladové lety (Commercial and Cargo Flights)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj mimo schválenou trasu nebo do řízeného vzdušného prostoru bez předchozího povolení FAA / ATC, je vinna přečinem a může být potrestána pokutou až 25 000 $ a odebráním pilotní licence.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj pro přepravu osob nebo nákladu za účelem komerční činnosti bez platného povolení nebo oprávnění FAA (Commercial Pilot Certificate / Cargo Authorization) a bez platné pilotní licence CPL(H) / CPL(A), je vinna přečinem a může být potrestána pokutou až 50 000 $ a dočasnou suspendací pilotní licence.
 
-(2) Pokud se takové jednání opakovaně opakuje, FAA může uložit pokutu až 50 000 $ a dočasnou suspendaci pilotní licence na 30 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
-
-9. Nepovolený přelet nad vládními objekty (Overflight of Government Facilities)
-
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj nad vládními nebo citlivými objekty – například vojenské základny, policejní stanice nebo jiné vyhrazené zóny – bez povolení FAA / ATC nebo příslušného orgánu, je vinna přečinem a může být potrestána pokutou až 60 000 $ a odebráním pilotní licence.
-
-(2) Pokud se takové jednání opakovaně opakuje, FAA může uložit pokutu až 100 000 $ a dočasnou suspendaci pilotní licence na 60 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
-
-10. Komerční a nákladové lety (Commercial and Cargo Flights)
-
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj pro přepravu osob nebo nákladu za účelem komerční činnosti bez platného povolení nebo oprávnění FAA (Commercial Pilot Certificate / Cargo Authorization), je vinna přečinem a může být potrestána pokutou až 15 000 $ a dočasnou suspendací pilotní licence na 30 dní.
-
-(2) Pokud se takové jednání opakovaně opakuje, FAA může uložit pokutu až 30 000 $ a odebrání pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
-
-11. Drony a UAV (Drones and UAV)
-
-(1) Každá osoba, která provozuje dron nebo UAV (unmanned aerial vehicle) bez platné registrace FAA, nebo v omezené či zakázané zóně (Restricted / Controlled Airspace) bez povolení, je vinna přečinem a může být potrestána pokutou až 2 000 $.
-
-(2) Pokud se takové jednání opakovaně opakuje nebo je prováděno úmyslně, FAA může uložit pokutu až 5 000 $ a dočasnou suspendaci pilotní licence / oprávnění na 15 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k provozu UAV.
+(2) Pokud se takové jednání opakuje, FAA může uložit pokutu až 150 000 $ a odebrat pilotní licenci, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
 12. Evidence a reporting (Records and Reporting)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a neposkytne FAA nebo příslušnému úřadu požadované záznamy o letu, provozu nebo údržbě letadla, je vinna přečinem a může být potrestána pokutou až 10 000 $.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a neposkytne FAA nebo příslušnému úřadu požadované záznamy o letu, provozu nebo údržbě letadla, je vinna přečinem a může být potrestána pokutou až 35 000 $.
 
-(2) Pokud se takové jednání opakovaně opakuje, FAA může uložit pokutu až 15 000 $ a dočasnou suspendaci pilotní licence na 15 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+(2) Pokud se takové jednání opakuje, FAA může uložit pokutu až 85 000 $ a dočasnou suspendaci pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
-13. Létání pod vlivem alkoholu nebo omamných látek (DUI – Aviation)
+13. Technický stav a technická způsobilost letadla (Airworthiness)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj pod vlivem alkoholu nebo omamných látek, které mohou ovlivnit schopnost bezpečně řídit letadlo, je vinna přečinem nebo zločinem a může být potrestána pokutou až 100 000 $, odebráním pilotní licence a odnětím svobody na 1 až 3 roky.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj jež vykazuje viditelné těžké mechanické závady, poškození nebo není způsobilé k bezpečnému letu, je vinna přečinem a může být potrestána pokutou až 50 000 $ a dočasným odebráním pilotní licence.
 
-(2) Pokud se takové jednání opakovaně opakuje, FAA a příslušné soudní orgány mohou uložit pokutu až 150 000 $ a odebrání pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+(2) Pokud se takové jednání opakuje, FAA může uložit pokutu až 100 000 $ a dočasnou suspendaci pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
-14. Předletová kontrola (Pre-Flight Inspection)
+14. Létání pod vlivem alkoholu nebo omamných látek (DUI – Aviation)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a neprovede povinnou předletovou kontrolu před letem, je vinna přečinem a může být potrestána pokutou až 5 000 $.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj pod vlivem alkoholu nebo omamných látek, které mohou ovlivnit schopnost bezpečně řídit letadlo, je vinna přečinem nebo zločinem a může být potrestána pokutou až 150 000 $, odebráním pilotní licence a odnětím svobody na 1 až 3 roky.
 
-(2) Pokud se takové jednání opakovaně opakuje, FAA může uložit pokutu až 10 000 $ a dočasnou suspendaci pilotní licence na 15 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+(2) Pokud se takové jednání opakuje, FAA a příslušné soudní orgány mohou uložit pokutu až 200 000 $ a odebrání pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
-15. Neznalost trasy, NOTAM a počasí (Route / NOTAM / Weather)
+15. Předletová kontrola (Pre-Flight Inspection)
+
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a neprovede povinnou předletovou kontrolu před letem, je vinna přečinem a může být potrestána pokutou až 15 000 $.
+
+(2) Pokud se takové jednání opakuje, FAA může uložit pokutu až 35 000 $ a dočasnou suspendaci pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+
+16. Neznalost trasy, NOTAM a počasí (Route / NOTAM / Weather)
 
 (1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a neprovede řádnou přípravu letu včetně kontroly trasy, aktuálních NOTAM (Notice to Airmen) a meteorologických podmínek, je vinna přečinem a může být potrestána následovně:
 
 (2) Porušení povinnosti:
-     (a) Nepříprava na trasu: pokuta až 5 000 $.
-     (b) Přelety přes NOTAM nebo uzávěrku: pokuta až 10 000 $ a dočasná suspendace pilotní licence na 15 dní.
-     (c) Nevyhovující počasí (letení v podmínkách, které ohrožují bezpečnost letu): pokuta až 20 000 $ a odebrání pilotní licence.
+     (a) Nepřipravenost na trasu: pokuta až 15 000 $.
+     (b) Přelety přes NOTAM nebo uzávěrku: pokuta až 25 000 $ a dočasná suspendace pilotní licence.
+     (c) Nevyhovující počasí (letení v podmínkách, které ohrožují bezpečnost letu): pokuta až 75 000 $ a odebrání pilotní licence.
 
-16. Použití letadla k nelegální činnosti (Use of Aircraft for Illegal Activity)
+17. Použití letadla k nelegální činnosti (Use of Aircraft for Illegal Activity)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj za účelem spáchání trestného činu – například pašování, útoky nebo jiné nelegální činnosti, je vinna zločinem a může být potrestána odnětím svobody na 2–5 let, pokutou až 100 000 $ a odebráním pilotní licence.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj za účelem spáchání trestného činu – například pašování, útoky nebo jiné nelegální činnosti, je vinna zločinem a může být potrestána odnětím svobody na 3–10 let, pokutou až 150 000 $ a odebráním pilotní licence.
 
-(2) Pokud se jednání opakovaně opakuje nebo je provedeno úmyslně, FAA a soudní orgány mohou uložit odnětí svobody na 5 až 10 let, pokutu až 150 000 $ a trvalé odebrání pilotní licence, přičemž záznam je veden v registru FAA a ovlivňuje veškeré budoucí oprávnění k pilotování.
+(2) Pokud se jednání opakuje nebo je provedeno úmyslně, FAA a soudní orgány mohou uložit odnětí svobody na 5 až 15 let, pokutu až 400 000 $ a trvalé odebrání pilotní licence, přičemž záznam je veden v registru FAA a ovlivňuje veškeré budoucí oprávnění k pilotování.
 
-17. Útěk z vyšetřování FAA nebo Law Enforcement (Evading FAA or Law Enforcement)
+18. Útěk z vyšetřování FAA nebo Law Enforcement (Evading FAA or Law Enforcement)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a úmyslně se vyhýbá kontrolám, pokynům nebo vyšetřování ze strany FAA či příslušných orgánů bezpečnosti letového provozu, je vinna zločinem a může být potrestána pokutou až 30 000 $, odnětím svobody na 1 až 3 roky a odebráním pilotní licence.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a úmyslně se vyhýbá kontrolám, pokynům nebo vyšetřování ze strany FAA či příslušných orgánů bezpečnosti letového provozu, je vinna zločinem a může být potrestána pokutou až 60 000 $, odnětím svobody na 2 až 5 let a odebráním pilotní licence.
 
-(2) Pokud se takové jednání opakovaně opakuje, FAA a soudní orgány mohou uložit pokutu až 50 000 $ a dočasnou suspendaci pilotní licence na 30 dní, přičemž záznam je veden v registru FAA a ovlivňuje budoucí oprávnění k pilotování.
+(2) Pokud se takové jednání opakuje, FAA a soudní orgány mohou uložit pokutu až 175 000 $ a trvalé odebrání pilotní licence, přičemž záznam je veden v registru FAA a ovlivňuje budoucí oprávnění k pilotování.
 
-18. Zásah při leteckém incidentu (Interference with Aviation Incident Response)
+19. Zásah při leteckém incidentu (Interference with Aviation Incident Response)
 
 (1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a zasahuje do činnosti FAA, ATC nebo jiných oprávněných orgánů při vyšetřování nebo řešení leteckého incidentu, je vinna přečinem a může být potrestána následovně:
 
 (2) Porušení povinnosti:
-     (a) Ignorování pokynů vyšetřovatelů nebo záchranných orgánů: pokuta až 5 000 $ a dočasná suspendace pilotní licence na 30 dní.
-     (b) Aktivní odpor při zásahu nebo vyšetřování: pokuta až 20 000 $ a dočasná suspendace pilotní licence na 60 dní.
+     (a) Ignorování pokynů vyšetřovatelů nebo záchranných orgánů: pokuta až 40 000 $ a dočasná suspendace pilotní licence.
+     (b) Aktivní odpor při zásahu nebo vyšetřování: pokuta až 100 000 $ a dočasná suspendace pilotní licence.
 
-(2) Pokud se jednání opakovaně opakuje, FAA může zvýšit pokuty a prodloužit suspendaci licence, přičemž záznam je veden v registru FAA a ovlivňuje budoucí oprávnění k pilotování.
+(3) Pokud se jednání opakuje, FAA může uložit pokutu až 150 000 a prodloužit suspendaci licence nebo ji odebrat, přičemž záznam je veden v registru FAA a ovlivňuje budoucí oprávnění k pilotování.
 
-19. Typy letů (Flight Type Classification)
+20. Typy letů (Flight Type Classification)
 
-(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a nesprávně eviduje nebo zatajuje typ letu (např. komerční, nákladový, tréninkový), případně neoznámí správný typ letu příslušným orgánům FAA, je vinna přečinem a může být potrestána pokutou až 5 000 $.
+(1) Každá osoba, která pilotuje letadlo nebo jiný řízený létající stroj a nesprávně eviduje nebo zatajuje typ letu (např. komerční, cargo, tréninkový), případně neoznámí správný typ letu příslušným orgánům FAA, je vinna přečinem a může být potrestána pokutou až 15 000 $.
 
-(2) Pokud se jednání opakovaně opakuje nebo je úmyslně zatajen typ letu, FAA může uložit pokutu až 10 000 $ a dočasnou suspendaci pilotní licence na 15–30 dní, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
+(2) Pokud se jednání opakuje nebo je úmyslně zatajen typ letu, FAA může uložit pokutu až 50 000 $ a dočasnou suspendaci pilotní licence, přičemž záznam je veden v registru FAA a může ovlivnit budoucí oprávnění k pilotování.
 
-20. Vydávání, správa a odebrání pilotních licencí (Issuance, Administration and Revocation)
+21. Vydávání, správa a odebrání pilotních licencí (Issuance, Administration and Revocation)
 
-(1) Každá osoba, která poruší pravidla týkající se vydávání, správy nebo odebrání pilotní licence, je vinna přečinem (misdemeanor) nebo zločinem (felony) podle federálního letectví a kalifornského práva, a může být potrestána následovně:
+(1) Každá osoba, která poruší pravidla týkající se vydávání, správy nebo odebrání pilotní licence, je vinna přečinem nebo zločinem následovně:
 
 (2) Porušení povinnosti:
-     (a) Nepovolené vydání, pozastavení nebo odebrání licence: pokuta až 25 000 $.
-     (b) Nepravdivé údaje v žádosti o pilotní licenci: pokuta až 5 000 $.
+     (a) Nepovolené vydání, pozastavení nebo odebrání licence: pokuta až 50 000 $. 
+     (b) Nepravdivé údaje v žádosti o pilotní licenci: pokuta až 50 000 $.
      (c) Odmítnutí přezkoušení nebo kontroly FAA: dočasná suspendace licence do splnění požadavku.
-     (d) Padělek pilotní licence nebo použití padělané licence: pokuta až 25 000 $, trvalé odebrání licence a odnětí svobody na 1 rok nebo 2 roky.
+     (d) Padělek pilotní licence nebo použití padělané licence: pokuta až 100 000 $, trvalé odebrání licence a odnětí svobody na 2 až 5 let.
 
 ---
 
