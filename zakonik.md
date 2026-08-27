@@ -213,7 +213,8 @@
 
 (2) Všechny ostatní zbraně (útočné pušky, samopaly, brokovnice, výbušniny), které nejsou uvedeny v odstavci (1), jsou považovány za zakázané zbraně a jejich držení je trestným činem.
 
-(3) Každá zakoupená střelná zbraň musí být zaregistrována v databázi do 48 hodin od nabytí. Neregistrovaná zbraň je považována za nelegální kontraband.
+(3) Každá zakoupená střelná zbraň musí být zaregistrována v databázi do 48 hodin od nákupu. Neregistrovaná zbraň je považována za nelegální kontraband.
+     (a) Za registraci jednoho kusu zbraně je poplatek $ 5000 USD, který účtuje registrující orgán.
 
 3. Nošení zbraně na veřejnosti (Concealed Carry Regulations)
 (1) Povinnosti držitele CCW Permit:
@@ -231,7 +232,9 @@
      (c) těžkého ublížení na zdraví,
      (d) mučení,
      (e) domácího násilí,
-     (f) opakovaného nedovoleného ozbrojování.
+     (f) nedovoleného ozbrojování.
+     (g) trestného činu v Hlavě I. trestního zákoníku.
+     (h) jakéhokoliv násilného trestného činu s použitím zbraně.
 
 (2) Konkrétní zbraň bude zabavena a zničena (Nuisance Weapon), pokud byla použita k jakémukoliv násilnému trestnému činu.
 
