@@ -232,8 +232,8 @@
      (c) těžkého ublížení na zdraví,
      (d) mučení,
      (e) domácího násilí,
-     (f) nedovoleného ozbrojování.
-     (g) trestného činu v Hlavě I. trestního zákoníku.
+     (f) nedovoleného ozbrojování,
+     (g) trestného činu v Hlavě I. trestního zákoníku,
      (h) jakéhokoliv násilného trestného činu s použitím zbraně.
 
 (2) Konkrétní zbraň bude zabavena a zničena (Nuisance Weapon), pokud byla použita k jakémukoliv násilnému trestnému činu.
